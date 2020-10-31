@@ -2,8 +2,6 @@
 
 <img alt="Logo" width="50px" src="https://user-images.githubusercontent.com/60853956/97776540-4c446980-1b69-11eb-9fdc-98b4ab65be6b.png">
 
-<br />
-
 ## I'm a Developer that makes all kinds of things
 - 👨‍🎓 I'm currently learning many things about web development as a student
 - 📊 My current project is a discord bot called [Pixel Pizza][pixelpizzarepo]!
