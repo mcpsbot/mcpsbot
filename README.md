@@ -11,19 +11,19 @@
 
 ---
 
-<h3 align="left">Social Media</h3>
+### Social Media
 
 [<img align="left" alt="Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg" />][discordserver]
 [<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">][twitch]
 
 <br />
 
-<h3 align="left">Projects</h3>
+### Projects
 [<img align="left" alt="Pixel Pizza Project" width="26px" src="https://user-images.githubusercontent.com/60853956/97776540-4c446980-1b69-11eb-9fdc-98b4ab65be6b.png">][pixelpizzarepo]
 
 <br />
 
-<h3 align="left">Languages and Tools</h3>
+### Languages and Tools
 <p align="left">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/visualstudio/visualstudio-plain.svg">
@@ -52,7 +52,7 @@
   
 <br />
 
-<h3 align="left">Activity</h3>
+### Activity
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
