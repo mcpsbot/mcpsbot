@@ -13,7 +13,9 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/jaronetje?style=social">
+  <a href="https://github.com/jaronetje?tab=followers">
+    <img src="https://img.shields.io/github/followers/jaronetje?style=social">
+  </a>
   <img src="https://img.shields.io/github/stars/jaronetje?label=Total%20Stars&style=social">
   <a href="https://github.com/jaronetje/PixelPizza/network/members">
     <img src="https://img.shields.io/github/forks/jaronetje/PixelPizza?label=Pixel%20Pizza%20Forks&style=social">
