@@ -21,7 +21,9 @@
   <a href="https://github.com/jaronetje/PixelPizza/stargazers">
     <img src="https://img.shields.io/github/stars/jaronetje/PixelPizza?label=Pixel%20Pizza%20Stars&style=social">
   </a>
-  <img src="https://img.shields.io/github/watchers/jaronetje/PixelPizza?label=Pixel%20Pizza%20Watchers&style=social">
+  <a href="https://github.com/jaronetje/PixelPizza/watchers">
+    <img src="https://img.shields.io/github/watchers/jaronetje/PixelPizza?label=Pixel%20Pizza%20Watchers&style=social">
+  </a>
 </p>
 
 <p align="center"><img alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaronetje&show_icons=true&hide_border=true"></p>
