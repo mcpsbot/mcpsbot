@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/github/followers/jaronetje?style=social">
   <img src="https://img.shields.io/github/forks/jaronetje/PixelPizza?label=Pixel%20Pizza%20Forks&style=social">
   <img src="https://img.shields.io/github/stars/jaronetje/PixelPizza?label=Pixel%20Pizza%20Stars&style=social">
+  <img src="https://img.shields.io/github/watchers/jaronetje/PixelPizza?label=Pixel%20Pizza%20Watchers&style=social">
 </p>
 
 - 👨‍🎓 I'm currently learning many things about web development as a student
