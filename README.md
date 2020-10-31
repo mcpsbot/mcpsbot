@@ -2,7 +2,6 @@
 <h3 align="center">I'm a Developer that makes all kinds of things</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jaronetje"></p>
 
-## This is what i'm doing
 - 👨‍🎓 I'm currently learning many things about web development as a student
 - 📊 My current project is a discord bot called [Pixel Pizza][pixelpizzarepo]!
 
