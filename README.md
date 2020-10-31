@@ -1,6 +1,6 @@
 ### Hi, I'm Jaron
 
-<img alt="Logo" width="50px" src="https://user-images.githubusercontent.com/60853956/97776540-4c446980-1b69-11eb-9fdc-98b4ab65be6b.png">
+![](https://komarev.com/ghpvc/?username=jaronetje)
 
 ## I'm a Developer that makes all kinds of things
 - 👨‍🎓 I'm currently learning many things about web development as a student
