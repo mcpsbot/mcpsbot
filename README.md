@@ -17,7 +17,7 @@
     <img alt="Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg" />
   </a>
   <a href="https://www.twitch.tv/jaronisonline">
-    <img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">
+    <img alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">
   </a>
 </p>
 
