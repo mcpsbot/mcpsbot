@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Jaron</h1>
 <h3 align="center">I'm a Developer that makes all kinds of things</h3>
+
+- 👨‍🎓 I'm currently learning many things about web development as a student
+- 📊 My current project is a discord bot called <a href="https://github.com/jaronetje/PixelPizza">Pixel Pizza</a>!
+
+<hr>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jaronetje&color=brightgreen&style=plastic&label=Profile+Views">
   <img src="https://img.shields.io/github/issues/jaronetje/PixelPizza?color=yellow&label=Pixel%20Pizza%20Issues&style=plastic">
@@ -13,11 +19,6 @@
   <img src="https://img.shields.io/github/stars/jaronetje/PixelPizza?label=Pixel%20Pizza%20Stars&style=social">
   <img src="https://img.shields.io/github/watchers/jaronetje/PixelPizza?label=Pixel%20Pizza%20Watchers&style=social">
 </p>
-
-- 👨‍🎓 I'm currently learning many things about web development as a student
-- 📊 My current project is a discord bot called <a href="https://github.com/jaronetje/PixelPizza">Pixel Pizza</a>!
-
-<hr>
 
 <p align="center"><img alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaronetje&show_icons=true&hide_border=true"></p>
 
