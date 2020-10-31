@@ -32,7 +32,7 @@
 
 <br />
 
-<img align="center" alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaronetje&show_icons=true&hide_border=true" />
+<p align="center"><img alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaronetje&show_icons=true&hide_border=true" /></p>
 
 ---
 
