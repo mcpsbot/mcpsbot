@@ -39,6 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com/jaronetje/PixelPizzaApp/issues/2) in [jaronetje/PixelPizzaApp](https://github.com/jaronetje/PixelPizzaApp)
+2. ❗️ Opened issue [#1](https://github.com/jaronetje/PixelPizzaApp/issues/1) in [jaronetje/PixelPizzaApp](https://github.com/jaronetje/PixelPizzaApp)
+3. ❗️ Opened issue [#3](https://github.com/jaronetje/Pixel-Battles/issues/3) in [jaronetje/Pixel-Battles](https://github.com/jaronetje/Pixel-Battles)
+4. ❗️ Opened issue [#2](https://github.com/jaronetje/Pixel-Battles/issues/2) in [jaronetje/Pixel-Battles](https://github.com/jaronetje/Pixel-Battles)
+5. ❗️ Opened issue [#1](https://github.com/jaronetje/Pixel-Battles/issues/1) in [jaronetje/Pixel-Battles](https://github.com/jaronetje/Pixel-Battles)
   <!--END_SECTION:activity-->
 
 </details>
