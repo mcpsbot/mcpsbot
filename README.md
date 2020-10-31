@@ -5,11 +5,11 @@
 - 👨‍🎓 I'm currently learning many things about web development as a student
 - 📊 My current project is a discord bot called <a href="https://github.com/jaronetje/PixelPizza">Pixel Pizza</a>!
 
----
+<hr>
 
 <p align="center"><img alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaronetje&show_icons=true&hide_border=true" /></p>
 
----
+<hr>
 
 <h3 align="left">Social Media</h3>
 <p align="left">
@@ -57,9 +57,9 @@
 <img align="left" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/gradle/gradle-plain.svg" />
 <p>
 
----
+<hr>
 
-### Activity
+<h3 align="left">Activity</h3>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
