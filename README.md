@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jaron</h1>
 <h3 align="center">I'm a Developer that makes all kinds of things</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jaronetje"></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jaronetje&color=brightgreen"></p>
 
 - 👨‍🎓 I'm currently learning many things about web development as a student
 - 📊 My current project is a discord bot called <a href="https://github.com/jaronetje/PixelPizza">Pixel Pizza</a>!
