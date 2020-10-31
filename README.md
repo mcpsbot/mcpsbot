@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Jaron</h1>
+<h2 align="center">I'm a Developer that makes all kinds of things</h2>
 
 ![](https://komarev.com/ghpvc/?username=jaronetje)
 
-## I'm a Developer that makes all kinds of things
+## This is what i'm doing
 - 👨‍🎓 I'm currently learning many things about web development as a student
 - 📊 My current project is a discord bot called [Pixel Pizza][pixelpizzarepo]!
 
