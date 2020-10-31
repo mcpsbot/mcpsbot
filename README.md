@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jaronetje&color=brightgreen&style=plastic&label=Profile+Views">
   <img src="https://img.shields.io/github/issues/jaronetje/PixelPizza?color=yellow&label=Pixel%20Pizza%20Issues&style=plastic">
+  <img src="https://img.shields.io/github/stars/jaronetje/PixelPizza?label=Pixel%20Pizza%20Stars&style=social">
 </p>
 
 <p align="left">
