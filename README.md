@@ -8,7 +8,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jaronetje&color=brightgreen&style=plastic&label=Profile+Views">
-  <img src="https://img.shields.io/github/issues/jaronetje/PixelPizza?color=yellow&label=Pixel%20Pizza%20Issues&style=plastic">
+  <a href="https://github.com/jaronetje/PixelPizza/issues?q=is%3Aopen+is%3Aissue">
+    <img src="https://img.shields.io/github/issues/jaronetje/PixelPizza?color=yellow&label=Pixel%20Pizza%20Issues&style=plastic">
+  </a>
   <a href="https://github.com/jaronetje/PixelPizza/issues?q=is%3Aissue+is%3Aclosed">
     <img src="https://img.shields.io/github/issues-closed/jaronetje/PixelPizza?color=red&label=Pixel%20Pizza%20Issues&style=plastic">
   </a>
