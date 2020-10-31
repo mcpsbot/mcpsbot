@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaron</h1>
-<p align="center">I'm a Developer that makes all kinds of things</p>
+<h3 align="center">I'm a Developer that makes all kinds of things</h3>
 
 ![](https://komarev.com/ghpvc/?username=jaronetje)
 
