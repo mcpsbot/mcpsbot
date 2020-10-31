@@ -32,6 +32,8 @@
 
 <br />
 
+<img align="center" alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaronetje&show_icons=true&hide_border=true" />
+
 ---
 
 <details>
@@ -44,13 +46,6 @@
 4. ❗️ Opened issue [#2](https://github.com/jaronetje/Pixel-Battles/issues/2) in [jaronetje/Pixel-Battles](https://github.com/jaronetje/Pixel-Battles)
 5. ❗️ Opened issue [#1](https://github.com/jaronetje/Pixel-Battles/issues/1) in [jaronetje/Pixel-Battles](https://github.com/jaronetje/Pixel-Battles)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="center" alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaronetje&show_icons=true&hide_border=true" />
 
 </details>
 
