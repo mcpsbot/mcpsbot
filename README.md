@@ -12,7 +12,7 @@
 ---
 
 ### Social Media
-
+<a href="https://discord.com/invite/MzbsFPe">test</a>
 [<img align="left" alt="Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg" />][discordserver]
 [<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">][twitch]
 
@@ -49,8 +49,6 @@
 
 <img align="left" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/gradle/gradle-plain.svg" />
 <p>
-
-<br />
 
 ---
 
