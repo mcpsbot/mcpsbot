@@ -7,6 +7,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/jaronetje?style=social">
+  <img src="https://img.shields.io/github/forks/jaronetje/PixelPizza?label=Pixel%20Pizza%20Forks&style=social">
 </p>
 
 - 👨‍🎓 I'm currently learning many things about web development as a student
