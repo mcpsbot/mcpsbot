@@ -24,7 +24,11 @@
 <br />
 
 ### Projects
-[<img align="left" alt="Pixel Pizza Project" width="26px" src="https://user-images.githubusercontent.com/60853956/97776540-4c446980-1b69-11eb-9fdc-98b4ab65be6b.png">][pixelpizzarepo]
+<p align="left">
+  <a href="https://github.com/jaronetje/PixelPizza">
+    <img align="left" alt="Pixel Pizza Project" width="26px" src="https://user-images.githubusercontent.com/60853956/97776540-4c446980-1b69-11eb-9fdc-98b4ab65be6b.png">
+  </a>
+</p>
 
 <br />
 
