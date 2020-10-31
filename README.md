@@ -3,7 +3,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jaronetje"></p>
 
 - 👨‍🎓 I'm currently learning many things about web development as a student
-- 📊 My current project is a discord bot called [Pixel Pizza][pixelpizzarepo]!
+- 📊 My current project is a discord bot called <a href="https://github.com/jaronetje/PixelPizza">Pixel Pizza</a>!
 
 ---
 
@@ -12,9 +12,14 @@
 ---
 
 ### Social Media
-<a href="https://discord.com/invite/MzbsFPe">test</a>
-[<img align="left" alt="Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg" />][discordserver]
-[<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">][twitch]
+<p align="left">
+  <a href="https://discord.com/invite/MzbsFPe">
+    <img alt="Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg" />
+  </a>
+  <a href="https://www.twitch.tv/jaronisonline">
+    <img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">
+  </a>
+</p>
 
 <br />
 
@@ -66,7 +71,3 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-[pixelpizzarepo]: https://github.com/jaronetje/PixelPizza
-[discordserver]: https://discord.com/invite/MzbsFPe
-[twitch]: https://www.twitch.tv/jaronisonline
