@@ -49,8 +49,8 @@
 
 <img align="left" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/gradle/gradle-plain.svg" />
 <p>
-  
-<br />
+
+---
 
 ### Activity
 
