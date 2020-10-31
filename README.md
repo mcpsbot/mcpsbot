@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/github/issues/jaronetje/PixelPizza?color=yellow&label=Pixel%20Pizza%20Issues&style=plastic">
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/github/followers/jaronetje?style=social">
+</p>
+
 - 👨‍🎓 I'm currently learning many things about web development as a student
 - 📊 My current project is a discord bot called <a href="https://github.com/jaronetje/PixelPizza">Pixel Pizza</a>!
 
