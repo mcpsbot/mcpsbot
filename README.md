@@ -1,4 +1,4 @@
-### Hi, I'm Jaron
+<h1 align="center">Hi, I'm Jaron</h1>
 
 ![](https://komarev.com/ghpvc/?username=jaronetje)
 
