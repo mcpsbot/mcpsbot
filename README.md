@@ -15,7 +15,7 @@
 <p align="left">
   <img src="https://img.shields.io/github/followers/jaronetje?style=social">
   <img src="https://img.shields.io/github/stars/jaronetje?label=Total%20Stars&style=social">
-  [<img src="https://img.shields.io/github/forks/jaronetje/PixelPizza?label=Pixel%20Pizza%20Forks&style=social">](https://github.com/jaronetje/PixelPizza/network/members)
+  [<img src="https://img.shields.io/github/forks/jaronetje/PixelPizza?label=Pixel%20Pizza%20Forks&style=social">][https://github.com/jaronetje/PixelPizza/network/members]
   <img src="https://img.shields.io/github/stars/jaronetje/PixelPizza?label=Pixel%20Pizza%20Stars&style=social">
   <img src="https://img.shields.io/github/watchers/jaronetje/PixelPizza?label=Pixel%20Pizza%20Watchers&style=social">
 </p>
