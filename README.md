@@ -38,10 +38,10 @@
 <h3 align="left">Social Media</h3>
 <p align="left">
   <a href="https://discord.com/invite/MzbsFPe">
-    <img alt="Discord Server" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg">
+    <img title="Discord Server" alt="Discord Server" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg">
   </a>
   <a href="https://www.twitch.tv/jaronisonline">
-    <img alt="Twitch" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">
+    <img title="Twitch" alt="Twitch" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">
   </a>
 </p>
 
