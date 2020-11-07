@@ -3,6 +3,7 @@
 
 - 👨‍🎓 I'm currently learning many things about web development as a student
 - 📊 My current project is a discord bot called <a href="https://github.com/jaronetje/PixelPizza">Pixel Pizza</a>!
+- 💎 I also have a minecraft mod called <a href="https://www.curseforge.com/minecraft/mc-mods/ruby-fun">Ruby Fun</a>
 
 <hr>
 
