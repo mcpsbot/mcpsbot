@@ -90,11 +90,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#116](https://github.com/jaronetje/PixelPizza/issues/116) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
-2. ❗️ Closed issue [#183](https://github.com/jaronetje/PixelPizza/issues/183) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
-3. ❗️ Opened issue [#183](https://github.com/jaronetje/PixelPizza/issues/183) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
-4. ❗️ Closed issue [#27](https://github.com/jaronetje/PixelPizza/issues/27) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
-5. ❗️ Closed issue [#28](https://github.com/jaronetje/PixelPizza/issues/28) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
+1. ❗️ Closed issue [#181](https://github.com/jaronetje/PixelPizza/issues/181) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
+2. ❗️ Closed issue [#116](https://github.com/jaronetje/PixelPizza/issues/116) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
+3. ❗️ Closed issue [#183](https://github.com/jaronetje/PixelPizza/issues/183) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
+4. ❗️ Opened issue [#183](https://github.com/jaronetje/PixelPizza/issues/183) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
+5. ❗️ Closed issue [#27](https://github.com/jaronetje/PixelPizza/issues/27) in [jaronetje/PixelPizza](https://github.com/jaronetje/PixelPizza)
 <!--END_SECTION:activity-->
 
 </details>
