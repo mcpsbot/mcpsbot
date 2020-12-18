@@ -90,11 +90,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/jaronetje/PixelPizzaWebsite/issues/4) in [jaronetje/PixelPizzaWebsite](https://github.com/jaronetje/PixelPizzaWebsite)
-2. ❗️ Reopened issue [#4](https://github.com/jaronetje/PixelPizzaWebsite/issues/4) in [jaronetje/PixelPizzaWebsite](https://github.com/jaronetje/PixelPizzaWebsite)
-3. ❗️ Reopened issue [#5](https://github.com/jaronetje/PixelPizzaWebsite/issues/5) in [jaronetje/PixelPizzaWebsite](https://github.com/jaronetje/PixelPizzaWebsite)
-4. ❗️ Closed issue [#246](https://github.com/jaronetje/PixelPizza-js/issues/246) in [jaronetje/PixelPizza-js](https://github.com/jaronetje/PixelPizza-js)
-5. ❗️ Opened issue [#246](https://github.com/jaronetje/PixelPizza-js/issues/246) in [jaronetje/PixelPizza-js](https://github.com/jaronetje/PixelPizza-js)
+1. ❗️ Closed issue [#41](https://github.com/jaronetje/PixelPizza-js/issues/41) in [jaronetje/PixelPizza-js](https://github.com/jaronetje/PixelPizza-js)
+2. 🗣 Commented on [#4](https://github.com/jaronetje/PixelPizzaWebsite/issues/4) in [jaronetje/PixelPizzaWebsite](https://github.com/jaronetje/PixelPizzaWebsite)
+3. ❗️ Reopened issue [#4](https://github.com/jaronetje/PixelPizzaWebsite/issues/4) in [jaronetje/PixelPizzaWebsite](https://github.com/jaronetje/PixelPizzaWebsite)
+4. ❗️ Reopened issue [#5](https://github.com/jaronetje/PixelPizzaWebsite/issues/5) in [jaronetje/PixelPizzaWebsite](https://github.com/jaronetje/PixelPizzaWebsite)
+5. ❗️ Closed issue [#246](https://github.com/jaronetje/PixelPizza-js/issues/246) in [jaronetje/PixelPizza-js](https://github.com/jaronetje/PixelPizza-js)
 <!--END_SECTION:activity-->
 
 </details>
