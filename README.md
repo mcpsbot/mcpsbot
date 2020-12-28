@@ -90,11 +90,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#248](https://github.com/PixelPizza/PixelPizza-js/issues/248) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-2. ❗️ Closed issue [#247](https://github.com/PixelPizza/PixelPizza-js/issues/247) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-3. ❗️ Closed issue [#210](https://github.com/PixelPizza/PixelPizza-js/issues/210) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-4. ❗️ Opened issue [#248](https://github.com/PixelPizza/PixelPizza-js/issues/248) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-5. ❗️ Opened issue [#247](https://github.com/PixelPizza/PixelPizza-js/issues/247) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+1. ❗️ Closed issue [#209](https://github.com/PixelPizza/PixelPizza-js/issues/209) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+2. ❗️ Closed issue [#248](https://github.com/PixelPizza/PixelPizza-js/issues/248) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+3. ❗️ Closed issue [#247](https://github.com/PixelPizza/PixelPizza-js/issues/247) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+4. ❗️ Closed issue [#210](https://github.com/PixelPizza/PixelPizza-js/issues/210) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+5. ❗️ Opened issue [#248](https://github.com/PixelPizza/PixelPizza-js/issues/248) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
 <!--END_SECTION:activity-->
 
 </details>
