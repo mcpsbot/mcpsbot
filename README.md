@@ -90,11 +90,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#249](https://github.com/PixelPizza/PixelPizza-js/pull/249) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-2. 💪 Opened PR [#249](https://github.com/PixelPizza/PixelPizza-js/pull/249) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-3. 🗣 Commented on [#1](https://github.com/PixelPizza/DiscordDeliveryBot/issues/1) in [PixelPizza/DiscordDeliveryBot](https://github.com/PixelPizza/DiscordDeliveryBot)
-4. ❗️ Closed issue [#216](https://github.com/PixelPizza/PixelPizza-js/issues/216) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-5. ❗️ Opened issue [#1](https://github.com/PixelPizza/PixelPizza-java/issues/1) in [PixelPizza/PixelPizza-java](https://github.com/PixelPizza/PixelPizza-java)
+1. 🎉 Merged PR [#250](https://github.com/PixelPizza/PixelPizza-js/pull/250) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+2. 💪 Opened PR [#250](https://github.com/PixelPizza/PixelPizza-js/pull/250) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+3. 🎉 Merged PR [#249](https://github.com/PixelPizza/PixelPizza-js/pull/249) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+4. 💪 Opened PR [#249](https://github.com/PixelPizza/PixelPizza-js/pull/249) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+5. 🗣 Commented on [#1](https://github.com/PixelPizza/DiscordDeliveryBot/issues/1) in [PixelPizza/DiscordDeliveryBot](https://github.com/PixelPizza/DiscordDeliveryBot)
 <!--END_SECTION:activity-->
 
 </details>
