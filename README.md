@@ -90,11 +90,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/JAndTTechnic/PixelPizza-js2/issues/3) in [JAndTTechnic/PixelPizza-js2](https://github.com/JAndTTechnic/PixelPizza-js2)
-2. ❗️ Opened issue [#2](https://github.com/JAndTTechnic/PixelPizza-js2/issues/2) in [JAndTTechnic/PixelPizza-js2](https://github.com/JAndTTechnic/PixelPizza-js2)
-3. ❗️ Opened issue [#1](https://github.com/JAndTTechnic/PixelPizza-js2/issues/1) in [JAndTTechnic/PixelPizza-js2](https://github.com/JAndTTechnic/PixelPizza-js2)
-4. 🎉 Merged PR [#8](https://github.com/JAndTTechnic/PixelPizza-js-alpha/pull/8) in [JAndTTechnic/PixelPizza-js-alpha](https://github.com/JAndTTechnic/PixelPizza-js-alpha)
-5. 🎉 Merged PR [#9](https://github.com/JAndTTechnic/PixelPizza-js-alpha/pull/9) in [JAndTTechnic/PixelPizza-js-alpha](https://github.com/JAndTTechnic/PixelPizza-js-alpha)
+1. ❗️ Opened issue [#5](https://github.com/JAndTTechnic/PixelPizza-js2/issues/5) in [JAndTTechnic/PixelPizza-js2](https://github.com/JAndTTechnic/PixelPizza-js2)
+2. ❗️ Opened issue [#4](https://github.com/JAndTTechnic/PixelPizza-js2/issues/4) in [JAndTTechnic/PixelPizza-js2](https://github.com/JAndTTechnic/PixelPizza-js2)
+3. ❗️ Opened issue [#3](https://github.com/JAndTTechnic/PixelPizza-js2/issues/3) in [JAndTTechnic/PixelPizza-js2](https://github.com/JAndTTechnic/PixelPizza-js2)
+4. ❗️ Opened issue [#2](https://github.com/JAndTTechnic/PixelPizza-js2/issues/2) in [JAndTTechnic/PixelPizza-js2](https://github.com/JAndTTechnic/PixelPizza-js2)
+5. ❗️ Opened issue [#1](https://github.com/JAndTTechnic/PixelPizza-js2/issues/1) in [JAndTTechnic/PixelPizza-js2](https://github.com/JAndTTechnic/PixelPizza-js2)
 <!--END_SECTION:activity-->
 
 </details>
