@@ -90,11 +90,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/TPEimperialPE/Prisons/issues/4) in [TPEimperialPE/Prisons](https://github.com/TPEimperialPE/Prisons)
-2. ❗️ Closed issue [#203](https://github.com/PixelPizza/PixelPizza-js/issues/203) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-3. 🎉 Merged PR [#250](https://github.com/PixelPizza/PixelPizza-js/pull/250) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-4. 💪 Opened PR [#250](https://github.com/PixelPizza/PixelPizza-js/pull/250) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
-5. 🎉 Merged PR [#249](https://github.com/PixelPizza/PixelPizza-js/pull/249) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+1. 🎉 Merged PR [#8](https://github.com/JAndTTechnic/PixelPizza-js-alpha/pull/8) in [JAndTTechnic/PixelPizza-js-alpha](https://github.com/JAndTTechnic/PixelPizza-js-alpha)
+2. 🎉 Merged PR [#9](https://github.com/JAndTTechnic/PixelPizza-js-alpha/pull/9) in [JAndTTechnic/PixelPizza-js-alpha](https://github.com/JAndTTechnic/PixelPizza-js-alpha)
+3. 🗣 Commented on [#4](https://github.com/TPEimperialPE/Prisons/issues/4) in [TPEimperialPE/Prisons](https://github.com/TPEimperialPE/Prisons)
+4. ❗️ Closed issue [#203](https://github.com/PixelPizza/PixelPizza-js/issues/203) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
+5. 🎉 Merged PR [#250](https://github.com/PixelPizza/PixelPizza-js/pull/250) in [PixelPizza/PixelPizza-js](https://github.com/PixelPizza/PixelPizza-js)
 <!--END_SECTION:activity-->
 
 </details>
