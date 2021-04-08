@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Developer that makes all kinds of things</h3>
 
 - 👨‍🎓 I'm currently learning many things about web development as a student
-- 📊 My current project is a discord bot called <a href="https://github.com/jaronetje/PixelPizza">Pixel Pizza</a>!
+- 📊 My current project is a discord bot called <a href="https://github.com/JAndTTechnic/PixelPizza-js2/tree/canary">Pixel Pizza</a>!
 - 💎 I also have a minecraft mod called <a href="https://www.curseforge.com/minecraft/mc-mods/ruby-fun">Ruby Fun</a>
 
 <hr>
