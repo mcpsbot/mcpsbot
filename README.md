@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Developer that makes all kinds of things</h3>
 
 - 👨‍🎓 I'm currently learning many things about web development as a student
-- 📊 My current project is a discord bot called <a href="https://github.com/JAndTTechnic/PixelPizza-js2/tree/canary">Pixel Pizza</a>!
+- 📊 My current project is a discord bot called <a href="https://github.com/JAndTTechnic/PixelPizza-js2">Pixel Pizza</a>!
 - 💎 I also have a minecraft mod called <a href="https://www.curseforge.com/minecraft/mc-mods/ruby-fun">Ruby Fun</a>
 
 <hr>
@@ -48,8 +48,14 @@
 
 <h3 align="left">Projects</h3>
 <p align="left">
-  <a href="https://github.com/jaronetje/PixelPizza">
-    <img title="Pixel Pizza" alt="Pixel Pizza Project" width="30px" src="https://user-images.githubusercontent.com/60853956/97776540-4c446980-1b69-11eb-9fdc-98b4ab65be6b.png">
+  <a href="https://github.com/JAndTTechnic/PixelPizza-js">
+    <img title="Pixel Pizza" alt="Pixel Pizza Project" width="30px" src="https://user-images.githubusercontent.com/60853956/114000352-35fab200-985b-11eb-94b2-44cb0f1b2b87.png">
+  </a>
+  <a href="https://github.com/JAndTTechnic/PixelPizza-js2">
+    <img title="Pixel Pizza 2" alt="Pixel Pizza 2 Project" width="30px" src="https://user-images.githubusercontent.com/60853956/114001630-65f68500-985c-11eb-9157-4aabbe0b326a.png">
+  </a>
+  <a href="https://github.com/JAndTTechnic/PixelPizza-js2/tree/canary">
+    <img title="Pixel Pizza 2 Canary" alt="Pixel Pizza 2 Canary Project" width="30px" src="https://user-images.githubusercontent.com/60853956/114001852-9dfdc800-985c-11eb-8112-8020bbfa36da.png">
   </a>
   <a href="https://github.com/jaronetje/ruby-fun">
     <img title="Ruby Fun" alt="Ruby Fun Minecraft Mod" width="30px" src="https://user-images.githubusercontent.com/60853956/98449256-56023a00-2132-11eb-9945-04c18516f21b.png">
