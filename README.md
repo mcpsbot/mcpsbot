@@ -8,7 +8,7 @@
 <hr>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaronetje&color=brightgreen&style=plastic&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=JaronZ&color=brightgreen&style=plastic&label=Profile+Views">
   <a href="https://github.com/jaronetje/PixelPizza/issues?q=is%3Aopen+is%3Aissue">
     <img src="https://img.shields.io/github/issues/jaronetje/PixelPizza?color=yellow&label=Pixel%20Pizza%20Issues&style=plastic">
   </a>
@@ -18,8 +18,8 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/jaronetje?tab=followers">
-    <img src="https://img.shields.io/github/followers/jaronetje?style=social">
+  <a href="https://github.com/JaronZ?tab=followers">
+    <img src="https://img.shields.io/github/followers/JaronZ?style=social">
   </a>
   <a href="https://github.com/jaronetje/PixelPizza/network/members">
     <img src="https://img.shields.io/github/forks/jaronetje/PixelPizza?label=Pixel%20Pizza%20Forks&style=social">
