@@ -48,9 +48,6 @@
 
 <h3 align="left">Projects</h3>
 <p align="left">
-  <a href="https://github.com/JAndTTechnic/PixelPizza-js">
-    <img title="Pixel Pizza" alt="Pixel Pizza Project" width="30px" src="https://user-images.githubusercontent.com/60853956/114000352-35fab200-985b-11eb-94b2-44cb0f1b2b87.png">
-  </a>
   <a href="https://github.com/JAndTTechnic/PixelPizza-js2">
     <img title="Pixel Pizza 2" alt="Pixel Pizza 2 Project" width="30px" src="https://user-images.githubusercontent.com/60853956/114001630-65f68500-985c-11eb-9157-4aabbe0b326a.png">
   </a>
