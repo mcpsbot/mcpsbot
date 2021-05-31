@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/JTTechnic/PixelPizzaHelper/pull/19) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
-2. 💪 Opened PR [#19](https://github.com/JTTechnic/PixelPizzaHelper/pull/19) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
-3. 🎉 Merged PR [#25](https://github.com/JTTechnic/basic-slash-command-bot/pull/25) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-4. 💪 Opened PR [#25](https://github.com/JTTechnic/basic-slash-command-bot/pull/25) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-5. 🎉 Merged PR [#24](https://github.com/JTTechnic/basic-slash-command-bot/pull/24) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+1. ❗️ Opened issue [#20](https://github.com/JTTechnic/PixelPizzaHelper/issues/20) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
+2. 🎉 Merged PR [#19](https://github.com/JTTechnic/PixelPizzaHelper/pull/19) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
+3. 💪 Opened PR [#19](https://github.com/JTTechnic/PixelPizzaHelper/pull/19) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
+4. 🎉 Merged PR [#25](https://github.com/JTTechnic/basic-slash-command-bot/pull/25) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+5. 💪 Opened PR [#25](https://github.com/JTTechnic/basic-slash-command-bot/pull/25) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
 <!--END_SECTION:activity-->
 
 </details>
