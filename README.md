@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/JTTechnic/basic-slash-command-bot/issues/10) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-2. ❗️ Opened issue [#9](https://github.com/JTTechnic/basic-slash-command-bot/issues/9) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-3. ❗️ Opened issue [#8](https://github.com/JTTechnic/basic-slash-command-bot/issues/8) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-4. ❗️ Opened issue [#17](https://github.com/JTTechnic/PixelPizza-js2/issues/17) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
-5. ❗️ Opened issue [#7](https://github.com/JTTechnic/basic-slash-command-bot/issues/7) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+1. 🎉 Merged PR [#16](https://github.com/JTTechnic/basic-slash-command-bot/pull/16) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+2. 💪 Opened PR [#16](https://github.com/JTTechnic/basic-slash-command-bot/pull/16) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+3. 🎉 Merged PR [#15](https://github.com/JTTechnic/basic-slash-command-bot/pull/15) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+4. ❗️ Closed issue [#12](https://github.com/JTTechnic/basic-slash-command-bot/issues/12) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+5. 💪 Opened PR [#15](https://github.com/JTTechnic/basic-slash-command-bot/pull/15) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
 <!--END_SECTION:activity-->
 
 </details>
