@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/JTTechnic/PixelPizzaHelper/pull/33) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
-2. ❗️ Closed issue [#32](https://github.com/JTTechnic/PixelPizzaHelper/issues/32) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
-3. 💪 Opened PR [#33](https://github.com/JTTechnic/PixelPizzaHelper/pull/33) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
-4. ❗️ Opened issue [#32](https://github.com/JTTechnic/PixelPizzaHelper/issues/32) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
-5. 🎉 Merged PR [#31](https://github.com/JTTechnic/PixelPizzaHelper/pull/31) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
+1. 🎉 Merged PR [#34](https://github.com/JTTechnic/PixelPizzaHelper/pull/34) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
+2. 💪 Opened PR [#34](https://github.com/JTTechnic/PixelPizzaHelper/pull/34) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
+3. 🎉 Merged PR [#33](https://github.com/JTTechnic/PixelPizzaHelper/pull/33) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
+4. ❗️ Closed issue [#32](https://github.com/JTTechnic/PixelPizzaHelper/issues/32) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
+5. 💪 Opened PR [#33](https://github.com/JTTechnic/PixelPizzaHelper/pull/33) in [JTTechnic/PixelPizzaHelper](https://github.com/JTTechnic/PixelPizzaHelper)
 <!--END_SECTION:activity-->
 
 </details>
