@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/JTTechnic/PixelPizza-js2/issues/26) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
-2. 🎉 Merged PR [#25](https://github.com/JTTechnic/PixelPizza-js2/pull/25) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
-3. 💪 Opened PR [#25](https://github.com/JTTechnic/PixelPizza-js2/pull/25) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
-4. 🎉 Merged PR [#24](https://github.com/JTTechnic/PixelPizza-js2/pull/24) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
-5. ❗️ Closed issue [#23](https://github.com/JTTechnic/PixelPizza-js2/issues/23) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
+1. ❗️ Closed issue [#29](https://github.com/JTTechnic/PixelPizza-js2/issues/29) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
+2. 🎉 Merged PR [#30](https://github.com/JTTechnic/PixelPizza-js2/pull/30) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
+3. 💪 Opened PR [#30](https://github.com/JTTechnic/PixelPizza-js2/pull/30) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
+4. ❗️ Opened issue [#29](https://github.com/JTTechnic/PixelPizza-js2/issues/29) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
+5. ❗️ Closed issue [#1](https://github.com/JTTechnic/PixelPizza-js2/issues/1) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
 <!--END_SECTION:activity-->
 
 </details>
