@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/JTTechnic/basic-slash-command-bot/pull/45) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-2. 💪 Opened PR [#45](https://github.com/JTTechnic/basic-slash-command-bot/pull/45) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-3. ❗️ Closed issue [#44](https://github.com/JTTechnic/basic-slash-command-bot/issues/44) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-4. ❗️ Opened issue [#44](https://github.com/JTTechnic/basic-slash-command-bot/issues/44) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-5. 🎉 Merged PR [#43](https://github.com/JTTechnic/basic-slash-command-bot/pull/43) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+1. 🎉 Merged PR [#48](https://github.com/JTTechnic/basic-slash-command-bot/pull/48) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+2. ❗️ Closed issue [#47](https://github.com/JTTechnic/basic-slash-command-bot/issues/47) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+3. 💪 Opened PR [#48](https://github.com/JTTechnic/basic-slash-command-bot/pull/48) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+4. ❗️ Opened issue [#47](https://github.com/JTTechnic/basic-slash-command-bot/issues/47) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+5. 🎉 Merged PR [#46](https://github.com/JTTechnic/basic-slash-command-bot/pull/46) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
 <!--END_SECTION:activity-->
 
 </details>
