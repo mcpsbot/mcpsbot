@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/JTTechnic/basic-slash-command-bot/pull/53) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-2. ❗️ Closed issue [#52](https://github.com/JTTechnic/basic-slash-command-bot/issues/52) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-3. 💪 Opened PR [#53](https://github.com/JTTechnic/basic-slash-command-bot/pull/53) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-4. ❗️ Opened issue [#52](https://github.com/JTTechnic/basic-slash-command-bot/issues/52) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
-5. 🎉 Merged PR [#51](https://github.com/JTTechnic/basic-slash-command-bot/pull/51) in [JTTechnic/basic-slash-command-bot](https://github.com/JTTechnic/basic-slash-command-bot)
+1. ❗️ Closed issue [#50](https://github.com/JTTechnic/PixelPizza-js2/issues/50) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
+2. 🗣 Commented on [#50](https://github.com/JTTechnic/PixelPizza-js2/issues/50) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
+3. ❗️ Closed issue [#51](https://github.com/JTTechnic/PixelPizza-js2/issues/51) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
+4. 🗣 Commented on [#51](https://github.com/JTTechnic/PixelPizza-js2/issues/51) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
+5. ❗️ Opened issue [#52](https://github.com/JTTechnic/PixelPizza-js2/issues/52) in [JTTechnic/PixelPizza-js2](https://github.com/JTTechnic/PixelPizza-js2)
 <!--END_SECTION:activity-->
 
 </details>
