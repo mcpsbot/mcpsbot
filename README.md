@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/JTTechnic/OurTube/pull/12) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-2. 🗣 Commented on [#12](https://github.com/JTTechnic/OurTube/issues/12) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-3. 💪 Opened PR [#12](https://github.com/JTTechnic/OurTube/pull/12) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-4. 🎉 Merged PR [#11](https://github.com/JTTechnic/OurTube/pull/11) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-5. 💪 Opened PR [#11](https://github.com/JTTechnic/OurTube/pull/11) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+1. 🎉 Merged PR [#1](https://github.com/JTTechnic/PixelPizza-Aoijs/pull/1) in [JTTechnic/PixelPizza-Aoijs](https://github.com/JTTechnic/PixelPizza-Aoijs)
+2. 💪 Opened PR [#1](https://github.com/JTTechnic/PixelPizza-Aoijs/pull/1) in [JTTechnic/PixelPizza-Aoijs](https://github.com/JTTechnic/PixelPizza-Aoijs)
+3. 🎉 Merged PR [#12](https://github.com/JTTechnic/OurTube/pull/12) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+4. 🗣 Commented on [#12](https://github.com/JTTechnic/OurTube/issues/12) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+5. 💪 Opened PR [#12](https://github.com/JTTechnic/OurTube/pull/12) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
