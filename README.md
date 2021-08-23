@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/JTTechnic/OurTube/pull/20) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-2. ❗️ Closed issue [#5](https://github.com/JTTechnic/OurTube/issues/5) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-3. 💪 Opened PR [#20](https://github.com/JTTechnic/OurTube/pull/20) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-4. ❗️ Opened issue [#18](https://github.com/JTTechnic/OurTube/issues/18) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-5. 🎉 Merged PR [#2](https://github.com/JaronZ/AutoPickup-Nukkit/pull/2) in [JaronZ/AutoPickup-Nukkit](https://github.com/JaronZ/AutoPickup-Nukkit)
+1. 🎉 Merged PR [#21](https://github.com/JTTechnic/OurTube/pull/21) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+2. 💪 Opened PR [#21](https://github.com/JTTechnic/OurTube/pull/21) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+3. 🎉 Merged PR [#20](https://github.com/JTTechnic/OurTube/pull/20) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+4. ❗️ Closed issue [#5](https://github.com/JTTechnic/OurTube/issues/5) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+5. 💪 Opened PR [#20](https://github.com/JTTechnic/OurTube/pull/20) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
