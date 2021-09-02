@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/JTTechnic/discord-extend/pull/21) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
-2. 💪 Opened PR [#21](https://github.com/JTTechnic/discord-extend/pull/21) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
-3. 🎉 Merged PR [#20](https://github.com/JTTechnic/discord-extend/pull/20) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
-4. 💪 Opened PR [#20](https://github.com/JTTechnic/discord-extend/pull/20) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
-5. 🎉 Merged PR [#19](https://github.com/JTTechnic/discord-extend/pull/19) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
+1. 🎉 Merged PR [#22](https://github.com/JTTechnic/discord-extend/pull/22) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
+2. 💪 Opened PR [#22](https://github.com/JTTechnic/discord-extend/pull/22) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
+3. 🎉 Merged PR [#21](https://github.com/JTTechnic/discord-extend/pull/21) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
+4. 💪 Opened PR [#21](https://github.com/JTTechnic/discord-extend/pull/21) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
+5. 🎉 Merged PR [#20](https://github.com/JTTechnic/discord-extend/pull/20) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
 <!--END_SECTION:activity-->
 
 </details>
