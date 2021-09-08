@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/JTTechnic/discord-extend/pull/26) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
-2. 💪 Opened PR [#26](https://github.com/JTTechnic/discord-extend/pull/26) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
-3. 🎉 Merged PR [#25](https://github.com/JTTechnic/discord-extend/pull/25) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
-4. 💪 Opened PR [#25](https://github.com/JTTechnic/discord-extend/pull/25) in [JTTechnic/discord-extend](https://github.com/JTTechnic/discord-extend)
-5. 🎉 Merged PR [#48](https://github.com/JTTechnic/OurTube/pull/48) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+1. 🎉 Merged PR [#5](https://github.com/JTTechnic/PixelPizzaTS/pull/5) in [JTTechnic/PixelPizzaTS](https://github.com/JTTechnic/PixelPizzaTS)
+2. 💪 Opened PR [#5](https://github.com/JTTechnic/PixelPizzaTS/pull/5) in [JTTechnic/PixelPizzaTS](https://github.com/JTTechnic/PixelPizzaTS)
+3. 🎉 Merged PR [#4](https://github.com/JTTechnic/PixelPizzaTS/pull/4) in [JTTechnic/PixelPizzaTS](https://github.com/JTTechnic/PixelPizzaTS)
+4. 💪 Opened PR [#4](https://github.com/JTTechnic/PixelPizzaTS/pull/4) in [JTTechnic/PixelPizzaTS](https://github.com/JTTechnic/PixelPizzaTS)
+5. 🎉 Merged PR [#3](https://github.com/JTTechnic/PixelPizzaTS/pull/3) in [JTTechnic/PixelPizzaTS](https://github.com/JTTechnic/PixelPizzaTS)
 <!--END_SECTION:activity-->
 
 </details>
