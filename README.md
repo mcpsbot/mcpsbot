@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/JTTechnic/discord-oversimplified/pull/17) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
-2. 🎉 Merged PR [#16](https://github.com/JTTechnic/discord-oversimplified/pull/16) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
-3. 💪 Opened PR [#16](https://github.com/JTTechnic/discord-oversimplified/pull/16) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
-4. 🎉 Merged PR [#15](https://github.com/JTTechnic/discord-oversimplified/pull/15) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
-5. 💪 Opened PR [#15](https://github.com/JTTechnic/discord-oversimplified/pull/15) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
+1. 🎉 Merged PR [#18](https://github.com/JTTechnic/discord-oversimplified/pull/18) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
+2. 💪 Opened PR [#18](https://github.com/JTTechnic/discord-oversimplified/pull/18) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
+3. 🎉 Merged PR [#17](https://github.com/JTTechnic/discord-oversimplified/pull/17) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
+4. 🎉 Merged PR [#16](https://github.com/JTTechnic/discord-oversimplified/pull/16) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
+5. 💪 Opened PR [#16](https://github.com/JTTechnic/discord-oversimplified/pull/16) in [JTTechnic/discord-oversimplified](https://github.com/JTTechnic/discord-oversimplified)
 <!--END_SECTION:activity-->
 
 </details>
