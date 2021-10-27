@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/JTTechnic/OurTube/pull/50) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-2. 💪 Opened PR [#50](https://github.com/JTTechnic/OurTube/pull/50) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
-3. 💪 Opened PR [#32](https://github.com/discordextend/discord-extend/pull/32) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
-4. 🎉 Merged PR [#1](https://github.com/discordextend/interpreter/pull/1) in [discordextend/interpreter](https://github.com/discordextend/interpreter)
-5. 💪 Opened PR [#1](https://github.com/discordextend/interpreter/pull/1) in [discordextend/interpreter](https://github.com/discordextend/interpreter)
+1. 🎉 Merged PR [#54](https://github.com/JTTechnic/OurTube/pull/54) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+2. 💪 Opened PR [#54](https://github.com/JTTechnic/OurTube/pull/54) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+3. 🎉 Merged PR [#53](https://github.com/JTTechnic/OurTube/pull/53) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+4. 💪 Opened PR [#53](https://github.com/JTTechnic/OurTube/pull/53) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
+5. 🎉 Merged PR [#52](https://github.com/JTTechnic/OurTube/pull/52) in [JTTechnic/OurTube](https://github.com/JTTechnic/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
