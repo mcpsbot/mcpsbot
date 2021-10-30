@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/discordextend/discord-extend/pull/33) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
-2. 💪 Opened PR [#33](https://github.com/discordextend/discord-extend/pull/33) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
-3. 🎉 Merged PR [#1](https://github.com/JaronZ/MVCFramework/pull/1) in [JaronZ/MVCFramework](https://github.com/JaronZ/MVCFramework)
-4. 💪 Opened PR [#1](https://github.com/JaronZ/MVCFramework/pull/1) in [JaronZ/MVCFramework](https://github.com/JaronZ/MVCFramework)
-5. 🎉 Merged PR [#2](https://github.com/discordextend/interpreter/pull/2) in [discordextend/interpreter](https://github.com/discordextend/interpreter)
+1. 🎉 Merged PR [#34](https://github.com/discordextend/discord-extend/pull/34) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
+2. 💪 Opened PR [#34](https://github.com/discordextend/discord-extend/pull/34) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
+3. 🎉 Merged PR [#33](https://github.com/discordextend/discord-extend/pull/33) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
+4. 💪 Opened PR [#33](https://github.com/discordextend/discord-extend/pull/33) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
+5. 🎉 Merged PR [#1](https://github.com/JaronZ/MVCFramework/pull/1) in [JaronZ/MVCFramework](https://github.com/JaronZ/MVCFramework)
 <!--END_SECTION:activity-->
 
 </details>
