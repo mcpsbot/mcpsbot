@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/discordextend/discord-extend/pull/35) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
-2. 💪 Opened PR [#35](https://github.com/discordextend/discord-extend/pull/35) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
-3. ❌ Closed PR [#32](https://github.com/discordextend/discord-extend/pull/32) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
-4. 🗣 Commented on [#32](https://github.com/discordextend/discord-extend/issues/32) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
-5. 🎉 Merged PR [#26](https://github.com/discordextend/discord-oversimplified/pull/26) in [discordextend/discord-oversimplified](https://github.com/discordextend/discord-oversimplified)
+1. 🎉 Merged PR [#36](https://github.com/discordextend/discord-extend/pull/36) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
+2. 💪 Opened PR [#36](https://github.com/discordextend/discord-extend/pull/36) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
+3. 🎉 Merged PR [#35](https://github.com/discordextend/discord-extend/pull/35) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
+4. 💪 Opened PR [#35](https://github.com/discordextend/discord-extend/pull/35) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
+5. ❌ Closed PR [#32](https://github.com/discordextend/discord-extend/pull/32) in [discordextend/discord-extend](https://github.com/discordextend/discord-extend)
 <!--END_SECTION:activity-->
 
 </details>
