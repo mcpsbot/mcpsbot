@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#260](https://github.com/PixelPizza/Bot/pull/260) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-2. 💪 Opened PR [#260](https://github.com/PixelPizza/Bot/pull/260) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-3. 🎉 Merged PR [#259](https://github.com/PixelPizza/Bot/pull/259) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-4. 💪 Opened PR [#259](https://github.com/PixelPizza/Bot/pull/259) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-5. 🎉 Merged PR [#258](https://github.com/PixelPizza/Bot/pull/258) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+1. 🎉 Merged PR [#261](https://github.com/PixelPizza/Bot/pull/261) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 💪 Opened PR [#261](https://github.com/PixelPizza/Bot/pull/261) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. 🎉 Merged PR [#260](https://github.com/PixelPizza/Bot/pull/260) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+4. 💪 Opened PR [#260](https://github.com/PixelPizza/Bot/pull/260) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. 🎉 Merged PR [#259](https://github.com/PixelPizza/Bot/pull/259) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
 <!--END_SECTION:activity-->
 
 </details>
