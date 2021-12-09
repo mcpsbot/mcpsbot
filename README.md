@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/PixelPizza/OurTube/pull/58) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 💪 Opened PR [#58](https://github.com/PixelPizza/OurTube/pull/58) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 💪 Opened PR [#57](https://github.com/PixelPizza/OurTube/pull/57) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. 🎉 Merged PR [#56](https://github.com/PixelPizza/OurTube/pull/56) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 💪 Opened PR [#56](https://github.com/PixelPizza/OurTube/pull/56) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#57](https://github.com/PixelPizza/OurTube/pull/57) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🎉 Merged PR [#58](https://github.com/PixelPizza/OurTube/pull/58) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 💪 Opened PR [#58](https://github.com/PixelPizza/OurTube/pull/58) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. 💪 Opened PR [#57](https://github.com/PixelPizza/OurTube/pull/57) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+5. 🎉 Merged PR [#56](https://github.com/PixelPizza/OurTube/pull/56) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
