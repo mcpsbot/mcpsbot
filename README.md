@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/PixelPizza/OurTube/issues/61) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 💪 Opened PR [#27](https://github.com/discordextend/discord-oversimplified/pull/27) in [discordextend/discord-oversimplified](https://github.com/discordextend/discord-oversimplified)
-3. 🎉 Merged PR [#60](https://github.com/PixelPizza/OurTube/pull/60) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. 🗣 Commented on [#59](https://github.com/PixelPizza/OurTube/issues/59) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🎉 Merged PR [#57](https://github.com/PixelPizza/OurTube/pull/57) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🗣 Commented on [#27](https://github.com/discordextend/discord-oversimplified/issues/27) in [discordextend/discord-oversimplified](https://github.com/discordextend/discord-oversimplified)
+2. 🗣 Commented on [#61](https://github.com/PixelPizza/OurTube/issues/61) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 💪 Opened PR [#27](https://github.com/discordextend/discord-oversimplified/pull/27) in [discordextend/discord-oversimplified](https://github.com/discordextend/discord-oversimplified)
+4. 🎉 Merged PR [#60](https://github.com/PixelPizza/OurTube/pull/60) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+5. 🗣 Commented on [#59](https://github.com/PixelPizza/OurTube/issues/59) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
