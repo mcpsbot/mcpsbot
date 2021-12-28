@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/discordoversimplified/discord-oversimplified/pull/28) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-2. 💪 Opened PR [#28](https://github.com/discordoversimplified/discord-oversimplified/pull/28) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-3. 🎉 Merged PR [#27](https://github.com/discordextend/discord-oversimplified/pull/27) in [discordextend/discord-oversimplified](https://github.com/discordextend/discord-oversimplified)
-4. 🗣 Commented on [#27](https://github.com/discordextend/discord-oversimplified/issues/27) in [discordextend/discord-oversimplified](https://github.com/discordextend/discord-oversimplified)
-5. 🗣 Commented on [#61](https://github.com/PixelPizza/OurTube/issues/61) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#29](https://github.com/discordoversimplified/discord-oversimplified/pull/29) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+2. 💪 Opened PR [#29](https://github.com/discordoversimplified/discord-oversimplified/pull/29) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+3. 🎉 Merged PR [#28](https://github.com/discordoversimplified/discord-oversimplified/pull/28) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+4. 💪 Opened PR [#28](https://github.com/discordoversimplified/discord-oversimplified/pull/28) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+5. 🎉 Merged PR [#27](https://github.com/discordextend/discord-oversimplified/pull/27) in [discordextend/discord-oversimplified](https://github.com/discordextend/discord-oversimplified)
 <!--END_SECTION:activity-->
 
 </details>
