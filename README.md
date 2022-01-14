@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Jaron</h1>
+<h1 align="center">Hi, I'm McpsBot</h1>
 <h3 align="center">I'm a Developer that makes all kinds of things</h3>
 
-- 👨‍🎓 I'm currently learning many things about web development as a student
-- 📊 My current project is a discord bot called <a href="https://github.com/JAndTTechnic/PixelPizza-js2">Pixel Pizza</a>!
-- 💎 I also have a minecraft mod called <a href="https://www.curseforge.com/minecraft/mc-mods/ruby-fun">Ruby Fun</a>
+- 👨‍🎓 I'm currently learning JavaScript
+- 📊 My current project is a discord bot called <a href="https://github.com/PixelPizza/OurTube">OurTube</a>!
+
 
 <hr>
 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/JaronZ?tab=followers">
+  <a href="https://github.com/Mcpsbot?tab=followers">
     <img src="https://img.shields.io/github/followers/JaronZ?style=social">
   </a>
   <a href="https://github.com/jaronetje/PixelPizza/network/members">
@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<p align="center"><img alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JaronZ&show_icons=true&hide_border=true"></p>
+<p align="center"><img alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mcpsbot&show_icons=true&hide_border=true"></p>
 
 <hr>
 
