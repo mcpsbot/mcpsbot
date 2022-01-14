@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<p align="center"><img alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mcpsbot&show_icons=true&hide_border=true"></p>
+<p align="center"><img alt="Mcpsbot's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mcpsbot&show_icons=true&hide_border=true"></p>
 
 <hr>
 
@@ -41,15 +41,15 @@
   <a href="https://discord.com/invite/MzbsFPe">
     <img title="Discord Server" alt="Discord Server" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg">
   </a>
-  <a href="https://www.twitch.tv/jaronisonline">
+  <a href="https://www.twitch.tv/mcpsluke">
     <img title="Twitch" alt="Twitch" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">
   </a>
 </p>
 
 <h3 align="left">Projects</h3>
 <p align="left">
-  <a href="https://github.com/JAndTTechnic/PixelPizza-js2">
-    <img title="Pixel Pizza 2" alt="Pixel Pizza 2 Project" width="30px" src="https://user-images.githubusercontent.com/60853956/114001630-65f68500-985c-11eb-9157-4aabbe0b326a.png">
+  <a href="https://github.com/PixeLPizza/OurTube">
+    <img title=" alt="OurTube" width="30px" src="https://user-images.githubusercontent.com/60853956/114001630-65f68500-985c-11eb-9157-4aabbe0b326a.png">
   </a>
   <a href="https://github.com/JAndTTechnic/PixelPizza-js2/tree/canary">
     <img title="Pixel Pizza 2 Canary" alt="Pixel Pizza 2 Canary Project" width="30px" src="https://user-images.githubusercontent.com/60853956/114001852-9dfdc800-985c-11eb-8112-8020bbfa36da.png">
