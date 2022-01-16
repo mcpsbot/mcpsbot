@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/PixelPizza/OurTube/pull/62) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 💪 Opened PR [#62](https://github.com/PixelPizza/OurTube/pull/62) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 🎉 Merged PR [#34](https://github.com/discordoversimplified/discord-oversimplified/pull/34) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-4. 💪 Opened PR [#34](https://github.com/discordoversimplified/discord-oversimplified/pull/34) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-5. 🎉 Merged PR [#33](https://github.com/discordoversimplified/discord-oversimplified/pull/33) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+1. ❌ Closed PR [#36](https://github.com/discordoversimplified/discord-oversimplified/pull/36) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+2. 💪 Opened PR [#36](https://github.com/discordoversimplified/discord-oversimplified/pull/36) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+3. ❌ Closed PR [#35](https://github.com/discordoversimplified/discord-oversimplified/pull/35) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+4. 💪 Opened PR [#35](https://github.com/discordoversimplified/discord-oversimplified/pull/35) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+5. 🎉 Merged PR [#62](https://github.com/PixelPizza/OurTube/pull/62) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
