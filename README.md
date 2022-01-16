@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/discordoversimplified/discord-oversimplified/pull/37) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-2. ❌ Closed PR [#36](https://github.com/discordoversimplified/discord-oversimplified/pull/36) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-3. 💪 Opened PR [#36](https://github.com/discordoversimplified/discord-oversimplified/pull/36) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-4. ❌ Closed PR [#35](https://github.com/discordoversimplified/discord-oversimplified/pull/35) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-5. 💪 Opened PR [#35](https://github.com/discordoversimplified/discord-oversimplified/pull/35) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+1. 🎉 Merged PR [#37](https://github.com/discordoversimplified/discord-oversimplified/pull/37) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+2. 💪 Opened PR [#37](https://github.com/discordoversimplified/discord-oversimplified/pull/37) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+3. ❌ Closed PR [#36](https://github.com/discordoversimplified/discord-oversimplified/pull/36) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+4. 💪 Opened PR [#36](https://github.com/discordoversimplified/discord-oversimplified/pull/36) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+5. ❌ Closed PR [#35](https://github.com/discordoversimplified/discord-oversimplified/pull/35) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
 <!--END_SECTION:activity-->
 
 </details>
