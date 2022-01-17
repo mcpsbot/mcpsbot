@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/PixelPizza/Bot/issues/262) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-2. ❗️ Opened issue [#262](https://github.com/PixelPizza/Bot/issues/262) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-3. 💪 Opened PR [#38](https://github.com/discordoversimplified/discord-oversimplified/pull/38) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-4. 🎉 Merged PR [#37](https://github.com/discordoversimplified/discord-oversimplified/pull/37) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-5. 💪 Opened PR [#37](https://github.com/discordoversimplified/discord-oversimplified/pull/37) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+1. 🎉 Merged PR [#268](https://github.com/PixelPizza/Bot/pull/268) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 🗣 Commented on [#264](https://github.com/PixelPizza/Bot/issues/264) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. 🎉 Merged PR [#267](https://github.com/PixelPizza/Bot/pull/267) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+4. 🗣 Commented on [#264](https://github.com/PixelPizza/Bot/issues/264) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. 🎉 Merged PR [#266](https://github.com/PixelPizza/Bot/pull/266) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
 <!--END_SECTION:activity-->
 
 </details>
