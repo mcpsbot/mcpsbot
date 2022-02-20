@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#220](https://github.com/PixelPizza/Bot/issues/220) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-2. 🗣 Commented on [#220](https://github.com/PixelPizza/Bot/issues/220) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-3. ❗️ Closed issue [#219](https://github.com/PixelPizza/Bot/issues/219) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-4. 🗣 Commented on [#219](https://github.com/PixelPizza/Bot/issues/219) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-5. 💪 Opened PR [#273](https://github.com/PixelPizza/Bot/pull/273) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+1. 💪 Opened PR [#71](https://github.com/PixelPizza/OurTube/pull/71) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. ❗️ Closed issue [#220](https://github.com/PixelPizza/Bot/issues/220) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. 🗣 Commented on [#220](https://github.com/PixelPizza/Bot/issues/220) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+4. ❗️ Closed issue [#219](https://github.com/PixelPizza/Bot/issues/219) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. 🗣 Commented on [#219](https://github.com/PixelPizza/Bot/issues/219) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
 <!--END_SECTION:activity-->
 
 </details>
