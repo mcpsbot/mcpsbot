@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/rpdelaney/factorio-modpack/issues/1) in [rpdelaney/factorio-modpack](https://github.com/rpdelaney/factorio-modpack)
-2. 🎉 Merged PR [#63](https://github.com/PixelPizza/OurTube/pull/63) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 💪 Opened PR [#63](https://github.com/PixelPizza/OurTube/pull/63) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. 🎉 Merged PR [#61](https://github.com/PixelPizza/OurTube/pull/61) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🗣 Commented on [#61](https://github.com/PixelPizza/OurTube/issues/61) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. ❗️ Opened issue [#74](https://github.com/PixelPizza/OurTube/issues/74) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. ❗️ Opened issue [#1](https://github.com/rpdelaney/factorio-modpack/issues/1) in [rpdelaney/factorio-modpack](https://github.com/rpdelaney/factorio-modpack)
+3. 🎉 Merged PR [#63](https://github.com/PixelPizza/OurTube/pull/63) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. 💪 Opened PR [#63](https://github.com/PixelPizza/OurTube/pull/63) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+5. 🎉 Merged PR [#61](https://github.com/PixelPizza/OurTube/pull/61) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
