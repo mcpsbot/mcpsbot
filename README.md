@@ -97,7 +97,7 @@
 2. 🗣 Commented on [#76](https://github.com/PixelPizza/OurTube/issues/76) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 3. 🗣 Commented on [#76](https://github.com/PixelPizza/OurTube/issues/76) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 4. 🗣 Commented on [#76](https://github.com/PixelPizza/OurTube/issues/76) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🎉 Merged PR [#78](https://github.com/PixelPizza/OurTube/pull/78) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+5. 🗣 Commented on [#76](https://github.com/PixelPizza/OurTube/issues/76) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
