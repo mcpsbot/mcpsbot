@@ -94,10 +94,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#76](https://github.com/PixelPizza/OurTube/issues/76) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🗣 Commented on [#75](https://github.com/PixelPizza/OurTube/issues/75) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 💪 Opened PR [#75](https://github.com/PixelPizza/OurTube/pull/75) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. ❗️ Opened issue [#74](https://github.com/PixelPizza/OurTube/issues/74) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. ❗️ Opened issue [#1](https://github.com/rpdelaney/factorio-modpack/issues/1) in [rpdelaney/factorio-modpack](https://github.com/rpdelaney/factorio-modpack)
+2. 🗣 Commented on [#76](https://github.com/PixelPizza/OurTube/issues/76) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 🗣 Commented on [#76](https://github.com/PixelPizza/OurTube/issues/76) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. 🗣 Commented on [#76](https://github.com/PixelPizza/OurTube/issues/76) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+5. 🗣 Commented on [#76](https://github.com/PixelPizza/OurTube/issues/76) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
