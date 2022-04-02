@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/PixelPizza/OurTube/pull/80) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🗣 Commented on [#278](https://github.com/PixelPizza/Bot/issues/278) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-3. 💪 Opened PR [#278](https://github.com/PixelPizza/Bot/pull/278) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-4. 🎉 Merged PR [#3](https://github.com/hammer-lang/interpreter/pull/3) in [hammer-lang/interpreter](https://github.com/hammer-lang/interpreter)
-5. 🎉 Merged PR [#277](https://github.com/PixelPizza/Bot/pull/277) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+1. 🗣 Commented on [#82](https://github.com/PixelPizza/OurTube/issues/82) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🎉 Merged PR [#80](https://github.com/PixelPizza/OurTube/pull/80) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 🗣 Commented on [#278](https://github.com/PixelPizza/Bot/issues/278) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+4. 💪 Opened PR [#278](https://github.com/PixelPizza/Bot/pull/278) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. 🎉 Merged PR [#3](https://github.com/hammer-lang/interpreter/pull/3) in [hammer-lang/interpreter](https://github.com/hammer-lang/interpreter)
 <!--END_SECTION:activity-->
 
 </details>
