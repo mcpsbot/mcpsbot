@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/discordoversimplified/discord-oversimplified/issues/42) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-2. 🎉 Merged PR [#39](https://github.com/discordoversimplified/discord-oversimplified/pull/39) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
-3. ❗️ Opened issue [#3](https://github.com/BeefLands/Beefcome-Inator/issues/3) in [BeefLands/Beefcome-Inator](https://github.com/BeefLands/Beefcome-Inator)
-4. ❗️ Opened issue [#1](https://github.com/BeefLands/website/issues/1) in [BeefLands/website](https://github.com/BeefLands/website)
-5. 🎉 Merged PR [#85](https://github.com/PixelPizza/OurTube/pull/85) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#86](https://github.com/PixelPizza/OurTube/pull/86) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🎉 Merged PR [#279](https://github.com/PixelPizza/Bot/pull/279) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. 🎉 Merged PR [#4](https://github.com/hammer-lang/interpreter/pull/4) in [hammer-lang/interpreter](https://github.com/hammer-lang/interpreter)
+4. ❗️ Opened issue [#43](https://github.com/discordoversimplified/discord-oversimplified/issues/43) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+5. ❗️ Opened issue [#42](https://github.com/discordoversimplified/discord-oversimplified/issues/42) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
 <!--END_SECTION:activity-->
 
 </details>
