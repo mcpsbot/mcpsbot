@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/BeefLands/website/issues/1) in [BeefLands/website](https://github.com/BeefLands/website)
-2. 🎉 Merged PR [#85](https://github.com/PixelPizza/OurTube/pull/85) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 💪 Opened PR [#85](https://github.com/PixelPizza/OurTube/pull/85) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. 🎉 Merged PR [#81](https://github.com/PixelPizza/OurTube/pull/81) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. ❗️ Closed issue [#83](https://github.com/PixelPizza/OurTube/issues/83) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. ❗️ Opened issue [#42](https://github.com/discordoversimplified/discord-oversimplified/issues/42) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+2. 🎉 Merged PR [#39](https://github.com/discordoversimplified/discord-oversimplified/pull/39) in [discordoversimplified/discord-oversimplified](https://github.com/discordoversimplified/discord-oversimplified)
+3. ❗️ Opened issue [#3](https://github.com/BeefLands/Beefcome-Inator/issues/3) in [BeefLands/Beefcome-Inator](https://github.com/BeefLands/Beefcome-Inator)
+4. ❗️ Opened issue [#1](https://github.com/BeefLands/website/issues/1) in [BeefLands/website](https://github.com/BeefLands/website)
+5. 🎉 Merged PR [#85](https://github.com/PixelPizza/OurTube/pull/85) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
