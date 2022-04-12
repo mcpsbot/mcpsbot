@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#90](https://github.com/PixelPizza/OurTube/pull/90) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. ❗️ Opened issue [#89](https://github.com/PixelPizza/OurTube/issues/89) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 🗣 Commented on [#83](https://github.com/PixelPizza/OurTube/issues/83) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. ❗️ Opened issue [#83](https://github.com/PixelPizza/OurTube/issues/83) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. ❗️ Opened issue [#82](https://github.com/PixelPizza/OurTube/issues/82) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#90](https://github.com/PixelPizza/OurTube/pull/90) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. ❗️ Closed issue [#89](https://github.com/PixelPizza/OurTube/issues/89) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 💪 Opened PR [#90](https://github.com/PixelPizza/OurTube/pull/90) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. ❗️ Opened issue [#89](https://github.com/PixelPizza/OurTube/issues/89) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+5. 🗣 Commented on [#83](https://github.com/PixelPizza/OurTube/issues/83) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
