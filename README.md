@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/PixelPizza/OurTube/pull/87) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🎉 Merged PR [#88](https://github.com/PixelPizza/OurTube/pull/88) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 🎉 Merged PR [#1](https://github.com/PixelPizza/pixelpizza-template/pull/1) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
-4. 🎉 Merged PR [#2](https://github.com/BeefLands/Beefcome-Inator/pull/2) in [BeefLands/Beefcome-Inator](https://github.com/BeefLands/Beefcome-Inator)
-5. 🎉 Merged PR [#86](https://github.com/PixelPizza/OurTube/pull/86) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. ❌ Closed PR [#280](https://github.com/PixelPizza/Bot/pull/280) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 🗣 Commented on [#280](https://github.com/PixelPizza/Bot/issues/280) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. ❌ Closed PR [#281](https://github.com/PixelPizza/Bot/pull/281) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+4. 🗣 Commented on [#281](https://github.com/PixelPizza/Bot/issues/281) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. 🎉 Merged PR [#87](https://github.com/PixelPizza/OurTube/pull/87) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
