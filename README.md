@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/simpledjs/simple.djs/pull/44) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
-2. 💪 Opened PR [#44](https://github.com/simpledjs/simple.djs/pull/44) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
-3. 🎉 Merged PR [#40](https://github.com/simpledjs/simple.djs/pull/40) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
-4. 🎉 Merged PR [#41](https://github.com/simpledjs/simple.djs/pull/41) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
-5. 🎉 Merged PR [#96](https://github.com/PixelPizza/OurTube/pull/96) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 💪 Opened PR [#102](https://github.com/PixelPizza/OurTube/pull/102) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🎉 Merged PR [#44](https://github.com/simpledjs/simple.djs/pull/44) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
+3. 💪 Opened PR [#44](https://github.com/simpledjs/simple.djs/pull/44) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
+4. 🎉 Merged PR [#40](https://github.com/simpledjs/simple.djs/pull/40) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
+5. 🎉 Merged PR [#41](https://github.com/simpledjs/simple.djs/pull/41) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
 <!--END_SECTION:activity-->
 
 </details>
