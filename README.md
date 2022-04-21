@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com/PixelPizza/OurTube/pull/102) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🎉 Merged PR [#44](https://github.com/simpledjs/simple.djs/pull/44) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
-3. 💪 Opened PR [#44](https://github.com/simpledjs/simple.djs/pull/44) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
-4. 🎉 Merged PR [#40](https://github.com/simpledjs/simple.djs/pull/40) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
-5. 🎉 Merged PR [#41](https://github.com/simpledjs/simple.djs/pull/41) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
+1. 💪 Opened PR [#286](https://github.com/PixelPizza/Bot/pull/286) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. ❌ Closed PR [#282](https://github.com/PixelPizza/Bot/pull/282) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. ❌ Closed PR [#283](https://github.com/PixelPizza/Bot/pull/283) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+4. ❌ Closed PR [#284](https://github.com/PixelPizza/Bot/pull/284) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. ❌ Closed PR [#285](https://github.com/PixelPizza/Bot/pull/285) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
 <!--END_SECTION:activity-->
 
 </details>
