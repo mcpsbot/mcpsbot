@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#286](https://github.com/PixelPizza/Bot/pull/286) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-2. ❌ Closed PR [#282](https://github.com/PixelPizza/Bot/pull/282) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-3. ❌ Closed PR [#283](https://github.com/PixelPizza/Bot/pull/283) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-4. ❌ Closed PR [#284](https://github.com/PixelPizza/Bot/pull/284) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-5. ❌ Closed PR [#285](https://github.com/PixelPizza/Bot/pull/285) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+1. 💪 Opened PR [#287](https://github.com/PixelPizza/Bot/pull/287) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 💪 Opened PR [#286](https://github.com/PixelPizza/Bot/pull/286) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. ❌ Closed PR [#282](https://github.com/PixelPizza/Bot/pull/282) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+4. ❌ Closed PR [#283](https://github.com/PixelPizza/Bot/pull/283) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. ❌ Closed PR [#284](https://github.com/PixelPizza/Bot/pull/284) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
 <!--END_SECTION:activity-->
 
 </details>
