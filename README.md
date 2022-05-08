@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/mcpsbot/OurTube/pull/11) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
-2. 🎉 Merged PR [#15](https://github.com/mcpsbot/OurTube/pull/15) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
-3. 🎉 Merged PR [#16](https://github.com/mcpsbot/OurTube/pull/16) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
-4. 🎉 Merged PR [#14](https://github.com/mcpsbot/OurTube/pull/14) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
-5. 🎉 Merged PR [#12](https://github.com/mcpsbot/OurTube/pull/12) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
+1. ❌ Closed PR [#106](https://github.com/PixelPizza/OurTube/pull/106) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🎉 Merged PR [#9](https://github.com/mcpsbot/OurTube/pull/9) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
+3. 🎉 Merged PR [#18](https://github.com/mcpsbot/OurTube/pull/18) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
+4. 🎉 Merged PR [#19](https://github.com/mcpsbot/OurTube/pull/19) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
+5. 🎉 Merged PR [#20](https://github.com/mcpsbot/OurTube/pull/20) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
