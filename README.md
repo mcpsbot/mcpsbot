@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/hammer-lang/interpreter/pull/6) in [hammer-lang/interpreter](https://github.com/hammer-lang/interpreter)
-2. 🎉 Merged PR [#5](https://github.com/hammer-lang/interpreter/pull/5) in [hammer-lang/interpreter](https://github.com/hammer-lang/interpreter)
-3. 🎉 Merged PR [#313](https://github.com/PixelPizza/Bot/pull/313) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-4. 🎉 Merged PR [#312](https://github.com/PixelPizza/Bot/pull/312) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-5. 🎉 Merged PR [#115](https://github.com/PixelPizza/OurTube/pull/115) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#314](https://github.com/PixelPizza/Bot/pull/314) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 🎉 Merged PR [#6](https://github.com/hammer-lang/interpreter/pull/6) in [hammer-lang/interpreter](https://github.com/hammer-lang/interpreter)
+3. 🎉 Merged PR [#5](https://github.com/hammer-lang/interpreter/pull/5) in [hammer-lang/interpreter](https://github.com/hammer-lang/interpreter)
+4. 🎉 Merged PR [#313](https://github.com/PixelPizza/Bot/pull/313) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. 🎉 Merged PR [#312](https://github.com/PixelPizza/Bot/pull/312) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
 <!--END_SECTION:activity-->
 
 </details>
