@@ -93,10 +93,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#325](https://github.com/PixelPizza/Bot/pull/325) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-2. 🎉 Merged PR [#297](https://github.com/PixelPizza/Bot/pull/297) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-3. 🎉 Merged PR [#128](https://github.com/PixelPizza/OurTube/pull/128) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. 🗣 Commented on [#128](https://github.com/PixelPizza/OurTube/issues/128) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#326](https://github.com/PixelPizza/Bot/pull/326) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 🎉 Merged PR [#325](https://github.com/PixelPizza/Bot/pull/325) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. 🎉 Merged PR [#297](https://github.com/PixelPizza/Bot/pull/297) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+4. 🎉 Merged PR [#128](https://github.com/PixelPizza/OurTube/pull/128) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 5. 🗣 Commented on [#128](https://github.com/PixelPizza/OurTube/issues/128) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
