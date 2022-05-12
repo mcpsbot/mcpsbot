@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#139](https://github.com/PixelPizza/OurTube/issues/139) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🎉 Merged PR [#33](https://github.com/mcpsbot/OurTube/pull/33) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
-3. 🎉 Merged PR [#34](https://github.com/mcpsbot/OurTube/pull/34) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
-4. 🗣 Commented on [#95](https://github.com/PixelPizza/OurTube/issues/95) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🎉 Merged PR [#138](https://github.com/PixelPizza/OurTube/pull/138) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🗣 Commented on [#332](https://github.com/PixelPizza/Bot/issues/332) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 🎉 Merged PR [#140](https://github.com/PixelPizza/OurTube/pull/140) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. ❗️ Opened issue [#139](https://github.com/PixelPizza/OurTube/issues/139) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. 🎉 Merged PR [#33](https://github.com/mcpsbot/OurTube/pull/33) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
+5. 🎉 Merged PR [#34](https://github.com/mcpsbot/OurTube/pull/34) in [mcpsbot/OurTube](https://github.com/mcpsbot/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
