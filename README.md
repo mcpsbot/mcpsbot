@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/PixelPizza/pixelpizza-template/pull/3) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
-2. 🎉 Merged PR [#333](https://github.com/PixelPizza/Bot/pull/333) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-3. 🎉 Merged PR [#332](https://github.com/PixelPizza/Bot/pull/332) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-4. 🗣 Commented on [#60](https://github.com/simpledjs/simple.djs/issues/60) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
-5. ❗️ Opened issue [#60](https://github.com/simpledjs/simple.djs/issues/60) in [simpledjs/simple.djs](https://github.com/simpledjs/simple.djs)
+1. 🎉 Merged PR [#6](https://github.com/PixelPizza/pixelpizza-template/pull/6) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
+2. 🎉 Merged PR [#5](https://github.com/PixelPizza/pixelpizza-template/pull/5) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
+3. ❌ Closed PR [#3](https://github.com/PixelPizza/pixelpizza-template/pull/3) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
+4. 🎉 Merged PR [#333](https://github.com/PixelPizza/Bot/pull/333) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. 🎉 Merged PR [#332](https://github.com/PixelPizza/Bot/pull/332) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
 <!--END_SECTION:activity-->
 
 </details>
