@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mcpsbot/Aoi.js-bot/pull/1) in [mcpsbot/Aoi.js-bot](https://github.com/mcpsbot/Aoi.js-bot)
-2. 🎉 Merged PR [#144](https://github.com/PixelPizza/OurTube/pull/144) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 🎉 Merged PR [#1](https://github.com/mcpsbot/mcpsbot/pull/1) in [mcpsbot/mcpsbot](https://github.com/mcpsbot/mcpsbot)
-4. 🎉 Merged PR [#1](https://github.com/mcpsbot/Djs-Moderation-Bot/pull/1) in [mcpsbot/Djs-Moderation-Bot](https://github.com/mcpsbot/Djs-Moderation-Bot)
-5. 🎉 Merged PR [#26](https://github.com/mcpsbot/6PG/pull/26) in [mcpsbot/6PG](https://github.com/mcpsbot/6PG)
+1. 🎉 Merged PR [#147](https://github.com/PixelPizza/OurTube/pull/147) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🎉 Merged PR [#1](https://github.com/mcpsbot/Aoi.js-bot/pull/1) in [mcpsbot/Aoi.js-bot](https://github.com/mcpsbot/Aoi.js-bot)
+3. 🎉 Merged PR [#144](https://github.com/PixelPizza/OurTube/pull/144) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. 🎉 Merged PR [#1](https://github.com/mcpsbot/mcpsbot/pull/1) in [mcpsbot/mcpsbot](https://github.com/mcpsbot/mcpsbot)
+5. 🎉 Merged PR [#1](https://github.com/mcpsbot/Djs-Moderation-Bot/pull/1) in [mcpsbot/Djs-Moderation-Bot](https://github.com/mcpsbot/Djs-Moderation-Bot)
 <!--END_SECTION:activity-->
 
 </details>
