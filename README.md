@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150](https://github.com/PixelPizza/OurTube/pull/150) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🎉 Merged PR [#147](https://github.com/PixelPizza/OurTube/pull/147) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 🎉 Merged PR [#1](https://github.com/mcpsbot/Aoi.js-bot/pull/1) in [mcpsbot/Aoi.js-bot](https://github.com/mcpsbot/Aoi.js-bot)
-4. 🎉 Merged PR [#144](https://github.com/PixelPizza/OurTube/pull/144) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🎉 Merged PR [#1](https://github.com/mcpsbot/mcpsbot/pull/1) in [mcpsbot/mcpsbot](https://github.com/mcpsbot/mcpsbot)
+1. 🗣 Commented on [#345](https://github.com/PixelPizza/Bot/issues/345) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 🎉 Merged PR [#150](https://github.com/PixelPizza/OurTube/pull/150) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 🎉 Merged PR [#147](https://github.com/PixelPizza/OurTube/pull/147) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. 🎉 Merged PR [#1](https://github.com/mcpsbot/Aoi.js-bot/pull/1) in [mcpsbot/Aoi.js-bot](https://github.com/mcpsbot/Aoi.js-bot)
+5. 🎉 Merged PR [#144](https://github.com/PixelPizza/OurTube/pull/144) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
