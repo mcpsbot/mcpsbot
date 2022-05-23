@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/PixelPizza/ApplicationsBot/pull/3) in [PixelPizza/ApplicationsBot](https://github.com/PixelPizza/ApplicationsBot)
-2. 🎉 Merged PR [#8](https://github.com/PixelPizza/pixelpizza-template/pull/8) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
-3. 🎉 Merged PR [#5](https://github.com/PixelPizza/ApplicationsBot/pull/5) in [PixelPizza/ApplicationsBot](https://github.com/PixelPizza/ApplicationsBot)
-4. 🎉 Merged PR [#10](https://github.com/PixelPizza/pixelpizza-template/pull/10) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
-5. 🎉 Merged PR [#4](https://github.com/PixelPizza/ApplicationsBot/pull/4) in [PixelPizza/ApplicationsBot](https://github.com/PixelPizza/ApplicationsBot)
+1. 🎉 Merged PR [#3](https://github.com/PixelPizza/ImagesBot/pull/3) in [PixelPizza/ImagesBot](https://github.com/PixelPizza/ImagesBot)
+2. 🎉 Merged PR [#3](https://github.com/PixelPizza/ApplicationsBot/pull/3) in [PixelPizza/ApplicationsBot](https://github.com/PixelPizza/ApplicationsBot)
+3. 🎉 Merged PR [#8](https://github.com/PixelPizza/pixelpizza-template/pull/8) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
+4. 🎉 Merged PR [#5](https://github.com/PixelPizza/ApplicationsBot/pull/5) in [PixelPizza/ApplicationsBot](https://github.com/PixelPizza/ApplicationsBot)
+5. 🎉 Merged PR [#10](https://github.com/PixelPizza/pixelpizza-template/pull/10) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
 <!--END_SECTION:activity-->
 
 </details>
