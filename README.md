@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/PixelPizza/pixelpizza-template/pull/11) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
-2. 🎉 Merged PR [#348](https://github.com/PixelPizza/Bot/pull/348) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-3. 🗣 Commented on [#347](https://github.com/PixelPizza/Bot/issues/347) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
-4. 🎉 Merged PR [#3](https://github.com/PixelPizza/ImagesBot/pull/3) in [PixelPizza/ImagesBot](https://github.com/PixelPizza/ImagesBot)
-5. 🎉 Merged PR [#3](https://github.com/PixelPizza/ApplicationsBot/pull/3) in [PixelPizza/ApplicationsBot](https://github.com/PixelPizza/ApplicationsBot)
+1. 💪 Opened PR [#352](https://github.com/PixelPizza/Bot/pull/352) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. ❗️ Opened issue [#351](https://github.com/PixelPizza/Bot/issues/351) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. 🎉 Merged PR [#11](https://github.com/PixelPizza/pixelpizza-template/pull/11) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
+4. 🎉 Merged PR [#348](https://github.com/PixelPizza/Bot/pull/348) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. 🗣 Commented on [#347](https://github.com/PixelPizza/Bot/issues/347) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
 <!--END_SECTION:activity-->
 
 </details>
