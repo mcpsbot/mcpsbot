@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#164](https://github.com/PixelPizza/OurTube/pull/164) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🎉 Merged PR [#1](https://github.com/mcpsbot/Translation/pull/1) in [mcpsbot/Translation](https://github.com/mcpsbot/Translation)
-3. 🎉 Merged PR [#162](https://github.com/PixelPizza/OurTube/pull/162) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. 🎉 Merged PR [#1](https://github.com/mcpsbot/codeSTACKr/pull/1) in [mcpsbot/codeSTACKr](https://github.com/mcpsbot/codeSTACKr)
-5. 🗣 Commented on [#354](https://github.com/PixelPizza/Bot/issues/354) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+1. 🎉 Merged PR [#168](https://github.com/PixelPizza/OurTube/pull/168) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🎉 Merged PR [#167](https://github.com/PixelPizza/OurTube/pull/167) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 🎉 Merged PR [#164](https://github.com/PixelPizza/OurTube/pull/164) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. 🎉 Merged PR [#1](https://github.com/mcpsbot/Translation/pull/1) in [mcpsbot/Translation](https://github.com/mcpsbot/Translation)
+5. 🎉 Merged PR [#162](https://github.com/PixelPizza/OurTube/pull/162) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
