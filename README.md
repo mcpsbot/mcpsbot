@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#183](https://github.com/PixelPizza/OurTube/pull/183) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. ❗️ Closed issue [#28](https://github.com/mcpsbot/6PG/issues/28) in [mcpsbot/6PG](https://github.com/mcpsbot/6PG)
-3. ❗️ Opened issue [#28](https://github.com/mcpsbot/6PG/issues/28) in [mcpsbot/6PG](https://github.com/mcpsbot/6PG)
-4. ❌ Closed PR [#27](https://github.com/theADAMJR/sixpg/pull/27) in [theADAMJR/sixpg](https://github.com/theADAMJR/sixpg)
-5. 🎉 Merged PR [#182](https://github.com/PixelPizza/OurTube/pull/182) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#184](https://github.com/PixelPizza/OurTube/pull/184) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 💪 Opened PR [#184](https://github.com/PixelPizza/OurTube/pull/184) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 🎉 Merged PR [#183](https://github.com/PixelPizza/OurTube/pull/183) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. ❗️ Closed issue [#28](https://github.com/mcpsbot/6PG/issues/28) in [mcpsbot/6PG](https://github.com/mcpsbot/6PG)
+5. ❗️ Opened issue [#28](https://github.com/mcpsbot/6PG/issues/28) in [mcpsbot/6PG](https://github.com/mcpsbot/6PG)
 <!--END_SECTION:activity-->
 
 </details>
