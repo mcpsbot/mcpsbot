@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/PixelPizza/pixelpizza.github.io/pull/1) in [PixelPizza/pixelpizza.github.io](https://github.com/PixelPizza/pixelpizza.github.io)
-2. 🎉 Merged PR [#3](https://github.com/PixelPizza/.github/pull/3) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
-3. 🗣 Commented on [#185](https://github.com/PixelPizza/OurTube/issues/185) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#4](https://github.com/PixelPizza/.github/pull/4) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
+2. 🎉 Merged PR [#1](https://github.com/PixelPizza/pixelpizza.github.io/pull/1) in [PixelPizza/pixelpizza.github.io](https://github.com/PixelPizza/pixelpizza.github.io)
+3. 🎉 Merged PR [#3](https://github.com/PixelPizza/.github/pull/3) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
 4. 🗣 Commented on [#185](https://github.com/PixelPizza/OurTube/issues/185) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🎉 Merged PR [#19](https://github.com/PixelPizza/pixelpizza-template/pull/19) in [PixelPizza/pixelpizza-template](https://github.com/PixelPizza/pixelpizza-template)
+5. 🗣 Commented on [#185](https://github.com/PixelPizza/OurTube/issues/185) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
