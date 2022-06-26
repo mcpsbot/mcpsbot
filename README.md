@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#186](https://github.com/PixelPizza/OurTube/pull/186) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🗣 Commented on [#3](https://github.com/PixelPizza/.github/issues/3) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
-3. 🗣 Commented on [#4](https://github.com/PixelPizza/.github/issues/4) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
-4. 🎉 Merged PR [#185](https://github.com/PixelPizza/OurTube/pull/185) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🗣 Commented on [#185](https://github.com/PixelPizza/OurTube/issues/185) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#2](https://github.com/mcpsbot/Aoi.js-bot/pull/2) in [mcpsbot/Aoi.js-bot](https://github.com/mcpsbot/Aoi.js-bot)
+2. 💪 Opened PR [#2](https://github.com/mcpsbot/Aoi.js-bot/pull/2) in [mcpsbot/Aoi.js-bot](https://github.com/mcpsbot/Aoi.js-bot)
+3. 💪 Opened PR [#186](https://github.com/PixelPizza/OurTube/pull/186) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. 🗣 Commented on [#3](https://github.com/PixelPizza/.github/issues/3) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
+5. 🗣 Commented on [#4](https://github.com/PixelPizza/.github/issues/4) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
 <!--END_SECTION:activity-->
 
 </details>
