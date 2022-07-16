@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/mcpsbot/6PG/pull/53) in [mcpsbot/6PG](https://github.com/mcpsbot/6PG)
-2. 🎉 Merged PR [#195](https://github.com/PixelPizza/OurTube/pull/195) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 🎉 Merged PR [#2](https://github.com/CrowdinJS/crowdin-api-types/pull/2) in [CrowdinJS/crowdin-api-types](https://github.com/CrowdinJS/crowdin-api-types)
-4. 🎉 Merged PR [#193](https://github.com/PixelPizza/OurTube/pull/193) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🎉 Merged PR [#192](https://github.com/PixelPizza/OurTube/pull/192) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#197](https://github.com/PixelPizza/OurTube/pull/197) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🎉 Merged PR [#198](https://github.com/PixelPizza/OurTube/pull/198) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 🎉 Merged PR [#53](https://github.com/mcpsbot/6PG/pull/53) in [mcpsbot/6PG](https://github.com/mcpsbot/6PG)
+4. 🎉 Merged PR [#195](https://github.com/PixelPizza/OurTube/pull/195) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+5. 🎉 Merged PR [#2](https://github.com/CrowdinJS/crowdin-api-types/pull/2) in [CrowdinJS/crowdin-api-types](https://github.com/CrowdinJS/crowdin-api-types)
 <!--END_SECTION:activity-->
 
 </details>
