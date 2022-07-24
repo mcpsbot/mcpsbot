@@ -93,11 +93,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/PixelPizza/ts-monorepo-template/pull/4) in [PixelPizza/ts-monorepo-template](https://github.com/PixelPizza/ts-monorepo-template)
-2. ❌ Closed PR [#186](https://github.com/PixelPizza/OurTube/pull/186) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 🎉 Merged PR [#206](https://github.com/PixelPizza/OurTube/pull/206) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. 🎉 Merged PR [#2](https://github.com/PixelPizza/pixelpizza.github.io/pull/2) in [PixelPizza/pixelpizza.github.io](https://github.com/PixelPizza/pixelpizza.github.io)
-5. 🎉 Merged PR [#21](https://github.com/PixelPizza/ServerBot/pull/21) in [PixelPizza/ServerBot](https://github.com/PixelPizza/ServerBot)
+1. 🎉 Merged PR [#27](https://github.com/PixelPizza/bot-template/pull/27) in [PixelPizza/bot-template](https://github.com/PixelPizza/bot-template)
+2. 🎉 Merged PR [#4](https://github.com/PixelPizza/ts-monorepo-template/pull/4) in [PixelPizza/ts-monorepo-template](https://github.com/PixelPizza/ts-monorepo-template)
+3. ❌ Closed PR [#186](https://github.com/PixelPizza/OurTube/pull/186) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+4. 🎉 Merged PR [#206](https://github.com/PixelPizza/OurTube/pull/206) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+5. 🎉 Merged PR [#2](https://github.com/PixelPizza/pixelpizza.github.io/pull/2) in [PixelPizza/pixelpizza.github.io](https://github.com/PixelPizza/pixelpizza.github.io)
 <!--END_SECTION:activity-->
 
 </details>
