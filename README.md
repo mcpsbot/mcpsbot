@@ -1,38 +1,15 @@
 <h1 align="center">Hi, I'm Jaron</h1>
 <h3 align="center">I'm a Developer that makes all kinds of things</h3>
 
-- 👨‍🎓 I'm currently learning many things about web development as a student
+- 👨‍🎓 Studying to become a software engineer
 - 📊 My current project is a discord bot called <a href="https://github.com/JAndTTechnic/PixelPizza-js2">Pixel Pizza</a>!
-- 💎 I also have a minecraft mod called <a href="https://www.curseforge.com/minecraft/mc-mods/ruby-fun">Ruby Fun</a>
 
 <hr>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JaronZ&color=brightgreen&style=plastic&label=Profile+Views">
-  <a href="https://github.com/jaronetje/PixelPizza/issues?q=is%3Aopen+is%3Aissue">
-    <img src="https://img.shields.io/github/issues/jaronetje/PixelPizza?color=yellow&label=Pixel%20Pizza%20Issues&style=plastic">
-  </a>
-  <a href="https://github.com/jaronetje/PixelPizza/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed/jaronetje/PixelPizza?color=red&label=Pixel%20Pizza%20Issues&style=plastic">
-  </a>
+<p align="center">
+  <img alt="JaronZ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaronZ&hide=java&theme=dracula">
+  <img alt="JaronZ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JaronZ&show_icons=true&theme=dracula">
 </p>
-
-<p align="left">
-  <a href="https://github.com/JaronZ?tab=followers">
-    <img src="https://img.shields.io/github/followers/JaronZ?style=social">
-  </a>
-  <a href="https://github.com/jaronetje/PixelPizza/network/members">
-    <img src="https://img.shields.io/github/forks/jaronetje/PixelPizza?label=Pixel%20Pizza%20Forks&style=social">
-  </a>
-  <a href="https://github.com/jaronetje/PixelPizza/stargazers">
-    <img src="https://img.shields.io/github/stars/jaronetje/PixelPizza?label=Pixel%20Pizza%20Stars&style=social">
-  </a>
-  <a href="https://github.com/jaronetje/PixelPizza/watchers">
-    <img src="https://img.shields.io/github/watchers/jaronetje/PixelPizza?label=Pixel%20Pizza%20Watchers&style=social">
-  </a>
-</p>
-
-<p align="center"><img alt="jaronetje's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JaronZ&show_icons=true&hide_border=true"></p>
 
 <hr>
 
@@ -41,7 +18,7 @@
   <a href="https://discord.com/invite/MzbsFPe">
     <img title="Discord Server" alt="Discord Server" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg">
   </a>
-  <a href="https://www.twitch.tv/jaronisonline">
+  <a href="https://www.twitch.tv/jaronlinez">
     <img title="Twitch" alt="Twitch" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitch.svg">
   </a>
 </p>
