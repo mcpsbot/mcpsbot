@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/PixelPizza/bot-template/pull/27) in [PixelPizza/bot-template](https://github.com/PixelPizza/bot-template)
-2. 🎉 Merged PR [#4](https://github.com/PixelPizza/ts-monorepo-template/pull/4) in [PixelPizza/ts-monorepo-template](https://github.com/PixelPizza/ts-monorepo-template)
-3. ❌ Closed PR [#186](https://github.com/PixelPizza/OurTube/pull/186) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-4. 🎉 Merged PR [#206](https://github.com/PixelPizza/OurTube/pull/206) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🎉 Merged PR [#2](https://github.com/PixelPizza/pixelpizza.github.io/pull/2) in [PixelPizza/pixelpizza.github.io](https://github.com/PixelPizza/pixelpizza.github.io)
+1. 🎉 Merged PR [#31](https://github.com/PixelPizza/bot-template/pull/31) in [PixelPizza/bot-template](https://github.com/PixelPizza/bot-template)
+2. 🎉 Merged PR [#15](https://github.com/PixelPizza/ts-template/pull/15) in [PixelPizza/ts-template](https://github.com/PixelPizza/ts-template)
+3. 🎉 Merged PR [#15](https://github.com/PixelPizza/ImagesBot/pull/15) in [PixelPizza/ImagesBot](https://github.com/PixelPizza/ImagesBot)
+4. 🎉 Merged PR [#14](https://github.com/PixelPizza/ImagesBot/pull/14) in [PixelPizza/ImagesBot](https://github.com/PixelPizza/ImagesBot)
+5. 🎉 Merged PR [#30](https://github.com/PixelPizza/bot-template/pull/30) in [PixelPizza/bot-template](https://github.com/PixelPizza/bot-template)
 <!--END_SECTION:activity-->
 
 </details>
