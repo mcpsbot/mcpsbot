@@ -70,11 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/spitafire/M6FS/pull/6) in [spitafire/M6FS](https://github.com/spitafire/M6FS)
-2. 🎉 Merged PR [#6](https://github.com/spitafire/bot-template/pull/6) in [spitafire/bot-template](https://github.com/spitafire/bot-template)
-3. 🎉 Merged PR [#6](https://github.com/spitafire/ts-template/pull/6) in [spitafire/ts-template](https://github.com/spitafire/ts-template)
-4. 🎉 Merged PR [#5](https://github.com/spitafire/M6FS/pull/5) in [spitafire/M6FS](https://github.com/spitafire/M6FS)
-5. 🎉 Merged PR [#5](https://github.com/spitafire/bot-template/pull/5) in [spitafire/bot-template](https://github.com/spitafire/bot-template)
+1. 🗣 Commented on [#155](https://github.com/PixelPizza/OurTube/issues/155) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🗣 Commented on [#372](https://github.com/PixelPizza/Bot/issues/372) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. 🎉 Merged PR [#6](https://github.com/spitafire/M6FS/pull/6) in [spitafire/M6FS](https://github.com/spitafire/M6FS)
+4. 🎉 Merged PR [#6](https://github.com/spitafire/bot-template/pull/6) in [spitafire/bot-template](https://github.com/spitafire/bot-template)
+5. 🎉 Merged PR [#6](https://github.com/spitafire/ts-template/pull/6) in [spitafire/ts-template](https://github.com/spitafire/ts-template)
 <!--END_SECTION:activity-->
 
 </details>
