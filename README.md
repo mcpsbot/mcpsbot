@@ -98,11 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#274](https://github.com/PixelPizza/OurTube/pull/274) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🗣 Commented on [#272](https://github.com/PixelPizza/OurTube/issues/272) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-3. 🎉 Merged PR [#8](https://github.com/spitafire/M6FS/pull/8) in [spitafire/M6FS](https://github.com/spitafire/M6FS)
-4. 🎉 Merged PR [#9](https://github.com/spitafire/M6FS/pull/9) in [spitafire/M6FS](https://github.com/spitafire/M6FS)
-5. 🎉 Merged PR [#8](https://github.com/spitafire/ts-template/pull/8) in [spitafire/ts-template](https://github.com/spitafire/ts-template)
+1. 🎉 Merged PR [#2](https://github.com/PixelPizza/Pixel/pull/2) in [PixelPizza/Pixel](https://github.com/PixelPizza/Pixel)
+2. 🎉 Merged PR [#1](https://github.com/PixelPizza/Pixel/pull/1) in [PixelPizza/Pixel](https://github.com/PixelPizza/Pixel)
+3. 🎉 Merged PR [#4](https://github.com/PixelPizza/Pixel/pull/4) in [PixelPizza/Pixel](https://github.com/PixelPizza/Pixel)
+4. 🎉 Merged PR [#5](https://github.com/PixelPizza/Pixel/pull/5) in [PixelPizza/Pixel](https://github.com/PixelPizza/Pixel)
+5. 🎉 Merged PR [#274](https://github.com/PixelPizza/OurTube/pull/274) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
