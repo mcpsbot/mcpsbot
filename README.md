@@ -98,11 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/PixelPizza/Pixel/pull/2) in [PixelPizza/Pixel](https://github.com/PixelPizza/Pixel)
-2. 🎉 Merged PR [#1](https://github.com/PixelPizza/Pixel/pull/1) in [PixelPizza/Pixel](https://github.com/PixelPizza/Pixel)
-3. 🎉 Merged PR [#4](https://github.com/PixelPizza/Pixel/pull/4) in [PixelPizza/Pixel](https://github.com/PixelPizza/Pixel)
-4. 🎉 Merged PR [#5](https://github.com/PixelPizza/Pixel/pull/5) in [PixelPizza/Pixel](https://github.com/PixelPizza/Pixel)
-5. 🎉 Merged PR [#274](https://github.com/PixelPizza/OurTube/pull/274) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#7](https://github.com/PixelPizza/ts-monorepo-template/pull/7) in [PixelPizza/ts-monorepo-template](https://github.com/PixelPizza/ts-monorepo-template)
+2. 🎉 Merged PR [#9](https://github.com/PixelPizza/ts-monorepo-template/pull/9) in [PixelPizza/ts-monorepo-template](https://github.com/PixelPizza/ts-monorepo-template)
+3. 🎉 Merged PR [#10](https://github.com/PixelPizza/ts-monorepo-template/pull/10) in [PixelPizza/ts-monorepo-template](https://github.com/PixelPizza/ts-monorepo-template)
+4. 🎉 Merged PR [#11](https://github.com/PixelPizza/ts-monorepo-template/pull/11) in [PixelPizza/ts-monorepo-template](https://github.com/PixelPizza/ts-monorepo-template)
+5. 🎉 Merged PR [#12](https://github.com/PixelPizza/ts-monorepo-template/pull/12) in [PixelPizza/ts-monorepo-template](https://github.com/PixelPizza/ts-monorepo-template)
 <!--END_SECTION:activity-->
 
 </details>
