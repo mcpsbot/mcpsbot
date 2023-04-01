@@ -98,11 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com/PixelPizza/OurTube/pull/304) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-2. 🎉 Merged PR [#3](https://github.com/JTTechnic/SmartphoneWebshop/pull/3) in [JTTechnic/SmartphoneWebshop](https://github.com/JTTechnic/SmartphoneWebshop)
-3. 💪 Opened PR [#3](https://github.com/JTTechnic/SmartphoneWebshop/pull/3) in [JTTechnic/SmartphoneWebshop](https://github.com/JTTechnic/SmartphoneWebshop)
-4. 🎉 Merged PR [#2](https://github.com/JTTechnic/SmartphoneWebshop/pull/2) in [JTTechnic/SmartphoneWebshop](https://github.com/JTTechnic/SmartphoneWebshop)
-5. 💪 Opened PR [#2](https://github.com/JTTechnic/SmartphoneWebshop/pull/2) in [JTTechnic/SmartphoneWebshop](https://github.com/JTTechnic/SmartphoneWebshop)
+1. 🗣 Commented on [#384](https://github.com/PixelPizza/Bot/issues/384) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 🗣 Commented on [#385](https://github.com/PixelPizza/Bot/issues/385) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. 🗣 Commented on [#386](https://github.com/PixelPizza/Bot/issues/386) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+4. 🗣 Commented on [#387](https://github.com/PixelPizza/Bot/issues/387) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+5. 🎉 Merged PR [#304](https://github.com/PixelPizza/OurTube/pull/304) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 <!--END_SECTION:activity-->
 
 </details>
