@@ -98,7 +98,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/PixelPizza/ServerBot/pull/40) in [PixelPizza/ServerBot](https://github.com/PixelPizza/ServerBot)
+1. 🎉 Merged PR [#310](https://github.com/PixelPizza/OurTube/pull/310) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 2. 🎉 Merged PR [#7](https://github.com/PixelPizza/.github/pull/7) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
 3. 💪 Opened PR [#309](https://github.com/PixelPizza/OurTube/pull/309) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
 4. 🎉 Merged PR [#307](https://github.com/PixelPizza/OurTube/pull/307) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
