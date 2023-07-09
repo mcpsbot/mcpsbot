@@ -98,11 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Jaronline-nodejs-lessons/JavaScript/pull/1) in [Jaronline-nodejs-lessons/JavaScript](https://github.com/Jaronline-nodejs-lessons/JavaScript)
-2. 💪 Opened PR [#1](https://github.com/Jaronline-nodejs-lessons/JavaScript/pull/1) in [Jaronline-nodejs-lessons/JavaScript](https://github.com/Jaronline-nodejs-lessons/JavaScript)
-3. 🚀 Published release [Single Language MDBook](https://github.com/Single Language MDBook) in [Jaronline-nodejs-lessons/JavaScript](https://github.com/Jaronline-nodejs-lessons/JavaScript)
-4. 🎉 Merged PR [#346](https://github.com/PixelPizza/OurTube/pull/346) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🎉 Merged PR [#347](https://github.com/PixelPizza/OurTube/pull/347) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+1. 🎉 Merged PR [#339](https://github.com/PixelPizza/OurTube/pull/339) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+2. 🎉 Merged PR [#354](https://github.com/PixelPizza/OurTube/pull/354) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
+3. 🎉 Merged PR [#1](https://github.com/Jaronline-nodejs-lessons/JavaScript/pull/1) in [Jaronline-nodejs-lessons/JavaScript](https://github.com/Jaronline-nodejs-lessons/JavaScript)
+4. 💪 Opened PR [#1](https://github.com/Jaronline-nodejs-lessons/JavaScript/pull/1) in [Jaronline-nodejs-lessons/JavaScript](https://github.com/Jaronline-nodejs-lessons/JavaScript)
+5. 🚀 Published release [Single Language MDBook](https://github.com/Single Language MDBook) in [Jaronline-nodejs-lessons/JavaScript](https://github.com/Jaronline-nodejs-lessons/JavaScript)
 <!--END_SECTION:activity-->
 
 </details>
