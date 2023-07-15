@@ -98,11 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TheRavenousCorporate/.github/pull/2) in [TheRavenousCorporate/.github](https://github.com/TheRavenousCorporate/.github)
-2. 🎉 Merged PR [#3](https://github.com/TheRavenousCorporate/ts-template/pull/3) in [TheRavenousCorporate/ts-template](https://github.com/TheRavenousCorporate/ts-template)
-3. 🎉 Merged PR [#2](https://github.com/TheRavenousCorporate/ts-template/pull/2) in [TheRavenousCorporate/ts-template](https://github.com/TheRavenousCorporate/ts-template)
-4. 🎉 Merged PR [#338](https://github.com/PixelPizza/OurTube/pull/338) in [PixelPizza/OurTube](https://github.com/PixelPizza/OurTube)
-5. 🎉 Merged PR [#398](https://github.com/PixelPizza/Bot/pull/398) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+1. 🎉 Merged PR [#7](https://github.com/TheRavenousCorporate/ts-template/pull/7) in [TheRavenousCorporate/ts-template](https://github.com/TheRavenousCorporate/ts-template)
+2. 🎉 Merged PR [#6](https://github.com/TheRavenousCorporate/ts-template/pull/6) in [TheRavenousCorporate/ts-template](https://github.com/TheRavenousCorporate/ts-template)
+3. 🎉 Merged PR [#5](https://github.com/TheRavenousCorporate/ts-template/pull/5) in [TheRavenousCorporate/ts-template](https://github.com/TheRavenousCorporate/ts-template)
+4. 💪 Opened PR [#5](https://github.com/TheRavenousCorporate/ts-template/pull/5) in [TheRavenousCorporate/ts-template](https://github.com/TheRavenousCorporate/ts-template)
+5. 🎉 Merged PR [#4](https://github.com/TheRavenousCorporate/.github/pull/4) in [TheRavenousCorporate/.github](https://github.com/TheRavenousCorporate/.github)
 <!--END_SECTION:activity-->
 
 </details>
