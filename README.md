@@ -98,11 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/TheRavenousCorporate/bot-template/pull/5) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
-2. 💪 Opened PR [#5](https://github.com/TheRavenousCorporate/bot-template/pull/5) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
-3. 🎉 Merged PR [#7](https://github.com/TheRavenousCorporate/ts-template/pull/7) in [TheRavenousCorporate/ts-template](https://github.com/TheRavenousCorporate/ts-template)
-4. 🎉 Merged PR [#6](https://github.com/TheRavenousCorporate/ts-template/pull/6) in [TheRavenousCorporate/ts-template](https://github.com/TheRavenousCorporate/ts-template)
-5. 🎉 Merged PR [#5](https://github.com/TheRavenousCorporate/ts-template/pull/5) in [TheRavenousCorporate/ts-template](https://github.com/TheRavenousCorporate/ts-template)
+1. ❌ Closed PR [#4](https://github.com/TheRavenousCorporate/bot-template/pull/4) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
+2. ❌ Closed PR [#2](https://github.com/TheRavenousCorporate/bot-template/pull/2) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
+3. ❌ Closed PR [#1](https://github.com/TheRavenousCorporate/bot-template/pull/1) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
+4. 🎉 Merged PR [#5](https://github.com/TheRavenousCorporate/bot-template/pull/5) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
+5. 💪 Opened PR [#5](https://github.com/TheRavenousCorporate/bot-template/pull/5) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
 <!--END_SECTION:activity-->
 
 </details>
