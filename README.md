@@ -98,11 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/PixelPizza/Website/pull/7) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
-2. 🎉 Merged PR [#6](https://github.com/PixelPizza/Website/pull/6) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
-3. 🎉 Merged PR [#9](https://github.com/PixelPizza/.github/pull/9) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
-4. ❗ Opened issue [#10](https://github.com/PixelPizza/.github/issues/10) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
-5. ❌ Closed PR [#4](https://github.com/TheRavenousCorporate/bot-template/pull/4) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
+1. 🎉 Merged PR [#5](https://github.com/PixelPizza/Website/pull/5) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
+2. 🗣 Commented on [#9](https://github.com/PixelPizza/Website/pull/9#issuecomment-1637066639) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
+3. ❌ Closed PR [#9](https://github.com/PixelPizza/Website/pull/9) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
+4. 🗣 Commented on [#9](https://github.com/PixelPizza/Website/pull/9#issuecomment-1637066082) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
+5. 🎉 Merged PR [#8](https://github.com/PixelPizza/Website/pull/8) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
 <!--END_SECTION:activity-->
 
 </details>
