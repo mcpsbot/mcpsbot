@@ -98,11 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/PixelPizza/.github/pull/9) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
-2. ❗ Opened issue [#10](https://github.com/PixelPizza/.github/issues/10) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
-3. ❌ Closed PR [#4](https://github.com/TheRavenousCorporate/bot-template/pull/4) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
-4. ❌ Closed PR [#2](https://github.com/TheRavenousCorporate/bot-template/pull/2) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
-5. ❌ Closed PR [#1](https://github.com/TheRavenousCorporate/bot-template/pull/1) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
+1. 🎉 Merged PR [#7](https://github.com/PixelPizza/Website/pull/7) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
+2. 🎉 Merged PR [#6](https://github.com/PixelPizza/Website/pull/6) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
+3. 🎉 Merged PR [#9](https://github.com/PixelPizza/.github/pull/9) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
+4. ❗ Opened issue [#10](https://github.com/PixelPizza/.github/issues/10) in [PixelPizza/.github](https://github.com/PixelPizza/.github)
+5. ❌ Closed PR [#4](https://github.com/TheRavenousCorporate/bot-template/pull/4) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
 <!--END_SECTION:activity-->
 
 </details>
