@@ -98,11 +98,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/TheRavenousCorporate/bot-template/pull/9) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
-2. 💪 Opened PR [#9](https://github.com/TheRavenousCorporate/bot-template/pull/9) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
-3. 💪 Opened PR [#10](https://github.com/PixelPizza/Website/pull/10) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
-4. 🎉 Merged PR [#5](https://github.com/PixelPizza/Website/pull/5) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
-5. 🗣 Commented on [#9](https://github.com/PixelPizza/Website/pull/9#issuecomment-1637066639) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
+1. 🔒 Closed issue [#338](https://github.com/PixelPizza/Bot/issues/338) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+2. 🗣 Commented on [#338](https://github.com/PixelPizza/Bot/issues/338#issuecomment-1641081337) in [PixelPizza/Bot](https://github.com/PixelPizza/Bot)
+3. 🎉 Merged PR [#9](https://github.com/TheRavenousCorporate/bot-template/pull/9) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
+4. 💪 Opened PR [#9](https://github.com/TheRavenousCorporate/bot-template/pull/9) in [TheRavenousCorporate/bot-template](https://github.com/TheRavenousCorporate/bot-template)
+5. 💪 Opened PR [#10](https://github.com/PixelPizza/Website/pull/10) in [PixelPizza/Website](https://github.com/PixelPizza/Website)
 <!--END_SECTION:activity-->
 
 </details>
