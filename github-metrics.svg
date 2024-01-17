@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="922" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="919" class="">
     <defs>
         <style/>
     </defs>
@@ -326,10 +326,7 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by mcpsbot in <span class="repo">PixelPizza/OurTube</span></div>
-                                    <div class="comment">
-                                        It's 2024 😉
-                                        <code class="language-suggestion">Copyright (c) 2024 PixelPizza</code>
-                                    </div>
+                                    <div class="comment">I thought we changed this to only playing copyright free music that's locally downloaded?</div>
                                 </div>
                             </section>
                         </div>
@@ -379,7 +376,7 @@
                                 <div class="details">
                                     <div>opened by mcpsbot in <span class="repo">PixelPizza/OurTube</span></div>
                                     <div class="comment">
-                                        <code class="language-suggestion">.env.local</code>
+                                        <code class="language-suggestion"># Description</code>
                                     </div>
                                 </div>
                             </section>
@@ -405,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2024, 19:15:31 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2024, 20:10:18 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
