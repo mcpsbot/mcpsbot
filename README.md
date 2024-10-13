@@ -1,1 +1,1 @@
-[![Github Metrics](./github-metrics.svg)](https://metrics.lecoq.io/insights/jaronz)
+[![Github Metrics](./github-metrics.svg)](https://metrics.lecoq.io/insights/mcpsbot)
