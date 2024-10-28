@@ -25,11 +25,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: jaronz
+          user: mcpsbot
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
-          config_timezone: Europe/Amsterdam
+          config_timezone: Europe/london
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
